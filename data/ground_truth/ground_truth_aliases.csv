@@ -1,0 +1,5 @@
+Parent_Vendor_ID,Alias_Vendor_ID,Parent_Name,Alias_Name,Shared_Address
+VND-0001,VND-0101,Sterling Apex Associates,Sterling Apex Associates Group,True
+VND-0003,VND-0102,Kestrel Titan Pvt Ltd,Kestrel Titan Private Limited,False
+VND-0005,VND-0103,Falcon Zenith Enterprises,Falcon Zenith Enterprises Group,True
+VND-0007,VND-0104,Everest Horizon Pvt Ltd,Everest Horizon Private Limited,False

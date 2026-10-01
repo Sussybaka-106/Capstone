@@ -1,0 +1,401 @@
+Tender_ID,Is_Collusion,Collusion_Type,Ring_ID,Involved_Vendors,Winning_Vendor,Description
+TND-00312,0,None,NONE,,VND-0001,Normal competitive bidding.
+TND-00325,0,None,NONE,,VND-0017,Normal competitive bidding.
+TND-00389,0,None,NONE,,VND-0066,Normal competitive bidding.
+TND-00387,0,None,NONE,,VND-0014,Normal competitive bidding.
+TND-00004,0,None,NONE,,VND-0038,Normal competitive bidding.
+TND-00371,0,None,NONE,,VND-0072,Normal competitive bidding.
+TND-00340,0,None,NONE,,VND-0049,Normal competitive bidding.
+TND-00348,0,None,NONE,,VND-0022,Normal competitive bidding.
+TND-00132,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00259,0,None,NONE,,VND-0039,Normal competitive bidding.
+TND-00232,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00233,0,None,NONE,,VND-0001,Normal competitive bidding.
+TND-00218,0,None,NONE,,VND-0049,Normal competitive bidding.
+TND-00316,0,None,NONE,,VND-0018,Normal competitive bidding.
+TND-00164,0,None,NONE,,VND-0078,Normal competitive bidding.
+TND-00283,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00170,1,Market Allocation,RING_MARKET_C,VND-0022,VND-0022,Sole uncontested bid by cartel member VND-0022 allocated to Nagpur.
+TND-00219,0,None,NONE,,VND-0101,Normal competitive bidding.
+TND-00053,0,None,NONE,,VND-0047,Normal competitive bidding.
+TND-00064,0,None,NONE,,VND-0071,Normal competitive bidding.
+TND-00378,0,None,NONE,,VND-0089,Normal competitive bidding.
+TND-00205,0,None,NONE,,VND-0087,Normal competitive bidding.
+TND-00274,0,None,NONE,,VND-0085,Normal competitive bidding.
+TND-00103,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00110,0,None,NONE,,VND-0062,Normal competitive bidding.
+TND-00127,0,None,NONE,,VND-0005,Normal competitive bidding.
+TND-00291,0,None,NONE,,VND-0085,Normal competitive bidding.
+TND-00368,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nashik.
+TND-00197,0,None,NONE,,VND-0006,Normal competitive bidding.
+TND-00388,0,None,NONE,,VND-0097,Normal competitive bidding.
+TND-00101,0,None,NONE,,VND-0066,Normal competitive bidding.
+TND-00359,0,None,NONE,,VND-0089,Normal competitive bidding.
+TND-00111,0,None,NONE,,VND-0060,Normal competitive bidding.
+TND-00206,0,None,NONE,,VND-0004,Normal competitive bidding.
+TND-00117,0,None,NONE,,VND-0054,Normal competitive bidding.
+TND-00213,0,None,NONE,,VND-0059,Normal competitive bidding.
+TND-00047,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00104,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00022,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00116,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00369,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00231,0,None,NONE,,VND-0087,Normal competitive bidding.
+TND-00155,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nagpur.
+TND-00165,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00182,0,None,NONE,,VND-0072,Normal competitive bidding.
+TND-00236,0,None,NONE,,VND-0024,Normal competitive bidding.
+TND-00334,0,None,NONE,,VND-0082,Normal competitive bidding.
+TND-00226,0,None,NONE,,VND-0095,Normal competitive bidding.
+TND-00255,0,None,NONE,,VND-0091,Normal competitive bidding.
+TND-00011,0,None,NONE,,VND-0091,Normal competitive bidding.
+TND-00152,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00027,0,None,NONE,,VND-0026,Normal competitive bidding.
+TND-00088,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00124,0,None,NONE,,VND-0082,Normal competitive bidding.
+TND-00135,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00337,0,None,NONE,,VND-0079,Normal competitive bidding.
+TND-00269,0,None,NONE,,VND-0041,Normal competitive bidding.
+TND-00100,0,None,NONE,,VND-0015,Normal competitive bidding.
+TND-00119,0,None,NONE,,VND-0066,Normal competitive bidding.
+TND-00056,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00353,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00006,0,None,NONE,,VND-0022,Normal competitive bidding.
+TND-00128,0,None,NONE,,VND-0058,Normal competitive bidding.
+TND-00074,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00091,0,None,NONE,,VND-0050,Normal competitive bidding.
+TND-00204,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00351,0,None,NONE,,VND-0011,Normal competitive bidding.
+TND-00086,0,None,NONE,,VND-0036,Normal competitive bidding.
+TND-00130,0,None,NONE,,VND-0100,Normal competitive bidding.
+TND-00035,0,None,NONE,,VND-0100,Normal competitive bidding.
+TND-00095,0,None,NONE,,VND-0097,Normal competitive bidding.
+TND-00336,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Amravati.
+TND-00040,0,None,NONE,,VND-0095,Normal competitive bidding.
+TND-00241,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00268,0,None,NONE,,VND-0057,Normal competitive bidding.
+TND-00253,0,None,NONE,,VND-0095,Normal competitive bidding.
+TND-00250,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00256,0,None,NONE,,VND-0104,Normal competitive bidding.
+TND-00280,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Pune.
+TND-00177,0,None,NONE,,VND-0069,Normal competitive bidding.
+TND-00252,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00082,0,None,NONE,,VND-0101,Normal competitive bidding.
+TND-00108,0,None,NONE,,VND-0017,Normal competitive bidding.
+TND-00338,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00276,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00319,0,None,NONE,,VND-0010,Normal competitive bidding.
+TND-00217,0,None,NONE,,VND-0066,Normal competitive bidding.
+TND-00344,0,None,NONE,,VND-0075,Normal competitive bidding.
+TND-00386,0,None,NONE,,VND-0046,Normal competitive bidding.
+TND-00094,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00356,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00200,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00292,0,None,NONE,,VND-0013,Normal competitive bidding.
+TND-00362,0,None,NONE,,VND-0016,Normal competitive bidding.
+TND-00010,0,None,NONE,,VND-0017,Normal competitive bidding.
+TND-00161,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00294,0,None,NONE,,VND-0047,Normal competitive bidding.
+TND-00331,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00016,0,None,NONE,,VND-0040,Normal competitive bidding.
+TND-00017,0,None,NONE,,VND-0091,Normal competitive bidding.
+TND-00264,0,None,NONE,,VND-0028,Normal competitive bidding.
+TND-00032,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00191,0,None,NONE,,VND-0057,Normal competitive bidding.
+TND-00229,0,None,NONE,,VND-0030,Normal competitive bidding.
+TND-00383,0,None,NONE,,VND-0014,Normal competitive bidding.
+TND-00067,0,None,NONE,,VND-0048,Normal competitive bidding.
+TND-00151,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00258,0,None,NONE,,VND-0087,Normal competitive bidding.
+TND-00158,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nashik.
+TND-00242,0,None,NONE,,VND-0093,Normal competitive bidding.
+TND-00298,0,None,NONE,,VND-0020,Normal competitive bidding.
+TND-00083,0,None,NONE,,VND-0097,Normal competitive bidding.
+TND-00107,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00146,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00159,0,None,NONE,,VND-0071,Normal competitive bidding.
+TND-00391,0,None,NONE,,VND-0004,Normal competitive bidding.
+TND-00324,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00384,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00238,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00321,0,None,NONE,,VND-0102,Normal competitive bidding.
+TND-00271,0,None,NONE,,VND-0077,Normal competitive bidding.
+TND-00293,0,None,NONE,,VND-0047,Normal competitive bidding.
+TND-00001,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00189,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Amravati.
+TND-00265,0,None,NONE,,VND-0061,Normal competitive bidding.
+TND-00366,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00015,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00144,0,None,NONE,,VND-0102,Normal competitive bidding.
+TND-00307,0,None,NONE,,VND-0099,Normal competitive bidding.
+TND-00203,0,None,NONE,,VND-0036,Normal competitive bidding.
+TND-00099,0,None,NONE,,VND-0011,Normal competitive bidding.
+TND-00341,0,None,NONE,,VND-0042,Normal competitive bidding.
+TND-00196,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00129,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00069,0,None,NONE,,VND-0008,Normal competitive bidding.
+TND-00188,0,None,NONE,,VND-0079,Normal competitive bidding.
+TND-00157,0,None,NONE,,VND-0040,Normal competitive bidding.
+TND-00246,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Nagpur.
+TND-00363,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Amravati.
+TND-00392,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00309,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00354,0,None,NONE,,VND-0067,Normal competitive bidding.
+TND-00300,0,None,NONE,,VND-0096,Normal competitive bidding.
+TND-00333,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00270,0,None,NONE,,VND-0068,Normal competitive bidding.
+TND-00192,0,None,NONE,,VND-0059,Normal competitive bidding.
+TND-00008,0,None,NONE,,VND-0008,Normal competitive bidding.
+TND-00070,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00327,0,None,NONE,,VND-0095,Normal competitive bidding.
+TND-00379,0,None,NONE,,VND-0032,Normal competitive bidding.
+TND-00239,0,None,NONE,,VND-0061,Normal competitive bidding.
+TND-00020,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00039,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00326,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00106,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00194,0,None,NONE,,VND-0023,Normal competitive bidding.
+TND-00221,0,None,NONE,,VND-0060,Normal competitive bidding.
+TND-00275,0,None,NONE,,VND-0071,Normal competitive bidding.
+TND-00314,0,None,NONE,,VND-0039,Normal competitive bidding.
+TND-00033,0,None,NONE,,VND-0032,Normal competitive bidding.
+TND-00303,0,None,NONE,,VND-0070,Normal competitive bidding.
+TND-00150,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00305,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00317,0,None,NONE,,VND-0070,Normal competitive bidding.
+TND-00018,0,None,NONE,,VND-0098,Normal competitive bidding.
+TND-00003,0,None,NONE,,VND-0027,Normal competitive bidding.
+TND-00049,0,None,NONE,,VND-0008,Normal competitive bidding.
+TND-00263,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Solapur.
+TND-00301,0,None,NONE,,VND-0006,Normal competitive bidding.
+TND-00244,1,Market Allocation,RING_MARKET_C,VND-0022,VND-0022,Sole uncontested bid by cartel member VND-0022 allocated to Thane.
+TND-00014,0,None,NONE,,VND-0059,Normal competitive bidding.
+TND-00375,0,None,NONE,,VND-0018,Normal competitive bidding.
+TND-00081,0,None,NONE,,VND-0034,Normal competitive bidding.
+TND-00154,0,None,NONE,,VND-0095,Normal competitive bidding.
+TND-00248,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00122,0,None,NONE,,VND-0099,Normal competitive bidding.
+TND-00237,0,None,NONE,,VND-0014,Normal competitive bidding.
+TND-00302,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00199,0,None,NONE,,VND-0058,Normal competitive bidding.
+TND-00266,0,None,NONE,,VND-0034,Normal competitive bidding.
+TND-00377,0,None,NONE,,VND-0006,Normal competitive bidding.
+TND-00167,0,None,NONE,,VND-0012,Normal competitive bidding.
+TND-00254,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00145,0,None,NONE,,VND-0007,Normal competitive bidding.
+TND-00228,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00285,0,None,NONE,,VND-0013,Normal competitive bidding.
+TND-00105,0,None,NONE,,VND-0016,Normal competitive bidding.
+TND-00380,0,None,NONE,,VND-0052,Normal competitive bidding.
+TND-00311,0,None,NONE,,VND-0075,Normal competitive bidding.
+TND-00320,0,None,NONE,,VND-0009,Normal competitive bidding.
+TND-00175,0,None,NONE,,VND-0006,Normal competitive bidding.
+TND-00318,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00058,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00133,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00224,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00048,0,None,NONE,,VND-0079,Normal competitive bidding.
+TND-00136,1,Market Allocation,RING_MARKET_C,VND-0022,VND-0022,Sole uncontested bid by cartel member VND-0022 allocated to Amravati.
+TND-00141,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00306,0,None,NONE,,VND-0050,Normal competitive bidding.
+TND-00156,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00176,0,None,NONE,,VND-0003,Normal competitive bidding.
+TND-00163,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00230,0,None,NONE,,VND-0024,Normal competitive bidding.
+TND-00393,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Thane.
+TND-00065,0,None,NONE,,VND-0104,Normal competitive bidding.
+TND-00180,0,None,NONE,,VND-0104,Normal competitive bidding.
+TND-00234,0,None,NONE,,VND-0021,Normal competitive bidding.
+TND-00245,0,None,NONE,,VND-0069,Normal competitive bidding.
+TND-00278,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00277,0,None,NONE,,VND-0023,Normal competitive bidding.
+TND-00225,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00288,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00330,0,None,NONE,,VND-0008,Normal competitive bidding.
+TND-00367,0,None,NONE,,VND-0003,Normal competitive bidding.
+TND-00125,0,None,NONE,,VND-0017,Normal competitive bidding.
+TND-00123,0,None,NONE,,VND-0092,Normal competitive bidding.
+TND-00212,0,None,NONE,,VND-0019,Normal competitive bidding.
+TND-00394,0,None,NONE,,VND-0068,Normal competitive bidding.
+TND-00345,0,None,NONE,,VND-0048,Normal competitive bidding.
+TND-00397,0,None,NONE,,VND-0042,Normal competitive bidding.
+TND-00374,0,None,NONE,,VND-0056,Normal competitive bidding.
+TND-00118,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00054,0,None,NONE,,VND-0072,Normal competitive bidding.
+TND-00198,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00096,0,None,NONE,,VND-0023,Normal competitive bidding.
+TND-00172,0,None,NONE,,VND-0094,Normal competitive bidding.
+TND-00211,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00273,0,None,NONE,,VND-0041,Normal competitive bidding.
+TND-00304,0,None,NONE,,VND-0043,Normal competitive bidding.
+TND-00373,0,None,NONE,,VND-0041,Normal competitive bidding.
+TND-00009,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Pune.
+TND-00329,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00031,0,None,NONE,,VND-0101,Normal competitive bidding.
+TND-00057,0,None,NONE,,VND-0093,Normal competitive bidding.
+TND-00186,0,None,NONE,,VND-0054,Normal competitive bidding.
+TND-00045,0,None,NONE,,VND-0013,Normal competitive bidding.
+TND-00140,0,None,NONE,,VND-0021,Normal competitive bidding.
+TND-00332,0,None,NONE,,VND-0041,Normal competitive bidding.
+TND-00115,0,None,NONE,,VND-0049,Normal competitive bidding.
+TND-00323,0,None,NONE,,VND-0012,Normal competitive bidding.
+TND-00208,0,None,NONE,,VND-0004,Normal competitive bidding.
+TND-00120,0,None,NONE,,VND-0021,Normal competitive bidding.
+TND-00026,0,None,NONE,,VND-0025,Normal competitive bidding.
+TND-00062,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00148,0,None,NONE,,VND-0039,Normal competitive bidding.
+TND-00153,0,None,NONE,,VND-0074,Normal competitive bidding.
+TND-00223,0,None,NONE,,VND-0007,Normal competitive bidding.
+TND-00139,0,None,NONE,,VND-0085,Normal competitive bidding.
+TND-00063,0,None,NONE,,VND-0027,Normal competitive bidding.
+TND-00187,0,None,NONE,,VND-0015,Normal competitive bidding.
+TND-00202,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00013,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Solapur.
+TND-00168,0,None,NONE,,VND-0049,Normal competitive bidding.
+TND-00195,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00034,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00089,0,None,NONE,,VND-0104,Normal competitive bidding.
+TND-00102,1,Market Allocation,RING_MARKET_C,VND-0022,VND-0022,Sole uncontested bid by cartel member VND-0022 allocated to Pune.
+TND-00121,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00051,0,None,NONE,,VND-0054,Normal competitive bidding.
+TND-00073,0,None,NONE,,VND-0051,Normal competitive bidding.
+TND-00114,0,None,NONE,,VND-0019,Normal competitive bidding.
+TND-00350,0,None,NONE,,VND-0028,Normal competitive bidding.
+TND-00043,0,None,NONE,,VND-0011,Normal competitive bidding.
+TND-00166,0,None,NONE,,VND-0077,Normal competitive bidding.
+TND-00190,0,None,NONE,,VND-0072,Normal competitive bidding.
+TND-00364,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00251,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00376,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00247,0,None,NONE,,VND-0069,Normal competitive bidding.
+TND-00029,0,None,NONE,,VND-0050,Normal competitive bidding.
+TND-00343,0,None,NONE,,VND-0005,Normal competitive bidding.
+TND-00313,0,None,NONE,,VND-0088,Normal competitive bidding.
+TND-00007,0,None,NONE,,VND-0007,Normal competitive bidding.
+TND-00370,0,None,NONE,,VND-0040,Normal competitive bidding.
+TND-00372,0,None,NONE,,VND-0013,Normal competitive bidding.
+TND-00085,0,None,NONE,,VND-0039,Normal competitive bidding.
+TND-00181,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00098,0,None,NONE,,VND-0078,Normal competitive bidding.
+TND-00044,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00272,0,None,NONE,,VND-0067,Normal competitive bidding.
+TND-00381,0,None,NONE,,VND-0040,Normal competitive bidding.
+TND-00025,0,None,NONE,,VND-0023,Normal competitive bidding.
+TND-00147,0,None,NONE,,VND-0026,Normal competitive bidding.
+TND-00295,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00055,0,None,NONE,,VND-0047,Normal competitive bidding.
+TND-00257,0,None,NONE,,VND-0082,Normal competitive bidding.
+TND-00183,0,None,NONE,,VND-0031,Normal competitive bidding.
+TND-00112,0,None,NONE,,VND-0058,Normal competitive bidding.
+TND-00267,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Aurangabad.
+TND-00037,0,None,NONE,,VND-0012,Normal competitive bidding.
+TND-00284,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00171,0,None,NONE,,VND-0083,Normal competitive bidding.
+TND-00210,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00361,0,None,NONE,,VND-0083,Normal competitive bidding.
+TND-00142,0,None,NONE,,VND-0104,Normal competitive bidding.
+TND-00249,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00347,0,None,NONE,,VND-0039,Normal competitive bidding.
+TND-00400,0,None,NONE,,VND-0001,Normal competitive bidding.
+TND-00066,0,None,NONE,,VND-0037,Normal competitive bidding.
+TND-00084,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00349,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00315,0,None,NONE,,VND-0036,Normal competitive bidding.
+TND-00390,0,None,NONE,,VND-0098,Normal competitive bidding.
+TND-00050,0,None,NONE,,VND-0077,Normal competitive bidding.
+TND-00355,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00060,0,None,NONE,,VND-0004,Normal competitive bidding.
+TND-00220,0,None,NONE,,VND-0034,Normal competitive bidding.
+TND-00215,0,None,NONE,,VND-0091,Normal competitive bidding.
+TND-00227,0,None,NONE,,VND-0093,Normal competitive bidding.
+TND-00279,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Amravati.
+TND-00042,0,None,NONE,,VND-0101,Normal competitive bidding.
+TND-00046,0,None,NONE,,VND-0024,Normal competitive bidding.
+TND-00005,0,None,NONE,,VND-0061,Normal competitive bidding.
+TND-00193,0,None,NONE,,VND-0024,Normal competitive bidding.
+TND-00360,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Solapur.
+TND-00174,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00281,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00365,0,None,NONE,,VND-0075,Normal competitive bidding.
+TND-00339,0,None,NONE,,VND-0080,Normal competitive bidding.
+TND-00131,0,None,NONE,,VND-0025,Normal competitive bidding.
+TND-00308,0,None,NONE,,VND-0068,Normal competitive bidding.
+TND-00134,0,None,NONE,,VND-0053,Normal competitive bidding.
+TND-00137,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00322,0,None,NONE,,VND-0063,Normal competitive bidding.
+TND-00052,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nashik.
+TND-00209,0,None,NONE,,VND-0082,Normal competitive bidding.
+TND-00335,0,None,NONE,,VND-0100,Normal competitive bidding.
+TND-00075,0,None,NONE,,VND-0100,Normal competitive bidding.
+TND-00149,0,None,NONE,,VND-0017,Normal competitive bidding.
+TND-00357,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00214,0,None,NONE,,VND-0042,Normal competitive bidding.
+TND-00289,0,None,NONE,,VND-0001,Normal competitive bidding.
+TND-00090,0,None,NONE,,VND-0029,Normal competitive bidding.
+TND-00072,0,None,NONE,,VND-0076,Normal competitive bidding.
+TND-00097,0,None,NONE,,VND-0038,Normal competitive bidding.
+TND-00002,0,None,NONE,,VND-0056,Normal competitive bidding.
+TND-00109,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nashik.
+TND-00286,0,None,NONE,,VND-0097,Normal competitive bidding.
+TND-00023,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00184,0,None,NONE,,VND-0029,Normal competitive bidding.
+TND-00290,0,None,NONE,,VND-0028,Normal competitive bidding.
+TND-00143,0,None,NONE,,VND-0102,Normal competitive bidding.
+TND-00282,0,None,NONE,,VND-0082,Normal competitive bidding.
+TND-00012,0,None,NONE,,VND-0015,Normal competitive bidding.
+TND-00077,0,None,NONE,,VND-0049,Normal competitive bidding.
+TND-00078,0,None,NONE,,VND-0081,Normal competitive bidding.
+TND-00092,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00240,0,None,NONE,,VND-0035,Normal competitive bidding.
+TND-00113,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Nashik.
+TND-00352,0,None,NONE,,VND-0054,Normal competitive bidding.
+TND-00138,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00261,0,None,NONE,,VND-0026,Normal competitive bidding.
+TND-00068,1,Market Allocation,RING_MARKET_C,VND-0022,VND-0022,Sole uncontested bid by cartel member VND-0022 allocated to Solapur.
+TND-00079,0,None,NONE,,VND-0071,Normal competitive bidding.
+TND-00038,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Amravati.
+TND-00080,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00061,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00162,0,None,NONE,,VND-0012,Normal competitive bidding.
+TND-00173,0,None,NONE,,VND-0033,Normal competitive bidding.
+TND-00207,0,None,NONE,,VND-0038,Normal competitive bidding.
+TND-00030,0,None,NONE,,VND-0103,Normal competitive bidding.
+TND-00310,0,None,NONE,,VND-0055,Normal competitive bidding.
+TND-00262,0,None,NONE,,VND-0085,Normal competitive bidding.
+TND-00382,0,None,NONE,,VND-0057,Normal competitive bidding.
+TND-00178,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0012,Pre-arranged cyclical rotation; vendor VND-0012 wins this round.
+TND-00179,1,Market Allocation,RING_MARKET_C,VND-0023,VND-0023,Sole uncontested bid by cartel member VND-0023 allocated to Pune.
+TND-00399,0,None,NONE,,VND-0024,Normal competitive bidding.
+TND-00021,0,None,NONE,,VND-0035,Normal competitive bidding.
+TND-00260,0,None,NONE,,VND-0022,Normal competitive bidding.
+TND-00346,0,None,NONE,,VND-0090,Normal competitive bidding.
+TND-00396,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00222,0,None,NONE,,VND-0073,Normal competitive bidding.
+TND-00036,0,None,NONE,,VND-0046,Normal competitive bidding.
+TND-00076,0,None,NONE,,VND-0088,Normal competitive bidding.
+TND-00358,0,None,NONE,,VND-0034,Normal competitive bidding.
+TND-00297,0,None,NONE,,VND-0091,Normal competitive bidding.
+TND-00243,0,None,NONE,,VND-0093,Normal competitive bidding.
+TND-00328,0,None,NONE,,VND-0062,Normal competitive bidding.
+TND-00385,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Pune.
+TND-00126,0,None,NONE,,VND-0002,Normal competitive bidding.
+TND-00028,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00059,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00071,0,None,NONE,,VND-0007,Normal competitive bidding.
+TND-00087,0,None,NONE,,VND-0031,Normal competitive bidding.
+TND-00299,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00235,1,Cover Bidding,RING_COVER_A,"VND-0003,VND-0004,VND-0005,VND-0006",VND-0003,Designated winner bidding ~97% with cartel members submitting non-competitive cover bids >115%.
+TND-00160,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0013,Pre-arranged cyclical rotation; vendor VND-0013 wins this round.
+TND-00216,0,None,NONE,,VND-0071,Normal competitive bidding.
+TND-00024,0,None,NONE,,VND-0078,Normal competitive bidding.
+TND-00185,0,None,NONE,,VND-0084,Normal competitive bidding.
+TND-00201,0,None,NONE,,VND-0047,Normal competitive bidding.
+TND-00395,0,None,NONE,,VND-0092,Normal competitive bidding.
+TND-00093,0,None,NONE,,VND-0013,Normal competitive bidding.
+TND-00342,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0014,Pre-arranged cyclical rotation; vendor VND-0014 wins this round.
+TND-00019,0,None,NONE,,VND-0103,Normal competitive bidding.
+TND-00398,1,Bid Rotation,RING_ROTATION_B,"VND-0011,VND-0012,VND-0013,VND-0014",VND-0011,Pre-arranged cyclical rotation; vendor VND-0011 wins this round.
+TND-00296,1,Market Allocation,RING_MARKET_C,VND-0021,VND-0021,Sole uncontested bid by cartel member VND-0021 allocated to Mumbai.
+TND-00287,0,None,NONE,,VND-0064,Normal competitive bidding.
+TND-00041,0,None,NONE,,VND-0053,Normal competitive bidding.
+TND-00169,0,None,NONE,,VND-0033,Normal competitive bidding.

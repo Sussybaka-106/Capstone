@@ -1,0 +1,28 @@
+# Core Data Processing & Analysis
+pandas
+numpy
+rapidfuzz
+
+# Graph Analytics
+networkx
+
+# Machine Learning & Explainability
+scikit-learn
+lightgbm
+shap
+
+# Backend API
+fastapi
+uvicorn
+
+# Dashboard & Visualization
+streamlit
+plotly
+
+# Database & Storage
+sqlalchemy
+psycopg2-binary
+
+# Testing & MLOps
+pytest
+mlflow
