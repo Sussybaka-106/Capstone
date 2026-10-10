@@ -1,0 +1,14 @@
+Vendor_ID_1,Vendor_Name_1,Vendor_ID_2,Vendor_Name_2,Name_Similarity,Address_Similarity
+VND-0001,Sterling Apex Associates,VND-0101,Sterling Apex Associates Group,86.36363636363636,100.0
+VND-0003,Kestrel Titan Pvt Ltd,VND-0060,Titan Kestrel Pvt Ltd,100.0,29.032258064516128
+VND-0003,Kestrel Titan Pvt Ltd,VND-0102,Kestrel Titan Private Limited,100.0,100.0
+VND-0005,Falcon Zenith Enterprises,VND-0083,Zenith Royal Enterprises,78.78787878787878,88.31168831168831
+VND-0005,Falcon Zenith Enterprises,VND-0103,Falcon Zenith Enterprises Group,85.0,100.0
+VND-0007,Everest Horizon Pvt Ltd,VND-0104,Everest Horizon Private Limited,100.0,100.0
+VND-0009,Vanguard Sterling Infra & Co,VND-0089,Vanguard Sterling Associates,77.55102040816327,92.06349206349206
+VND-0017,Falcon Titan Pvt Ltd,VND-0025,Titan Falcon Limited,88.88888888888889,43.58974358974359
+VND-0027,Apex Paramount Solutions,VND-0078,Paramount Apex Solutions,100.0,34.375
+VND-0029,Delta Matrix Limited,VND-0048,Matrix Delta Pvt Ltd,88.88888888888889,51.515151515151516
+VND-0035,Falcon Matrix Infra & Co,VND-0097,Vanguard Falcon Infra & Co,78.26086956521739,94.44444444444444
+VND-0055,Vanguard Delta Limited,VND-0074,Vanguard Delta Solutions,88.88888888888889,40.625
+VND-0060,Titan Kestrel Pvt Ltd,VND-0102,Kestrel Titan Private Limited,100.0,30.303030303030297

@@ -1,0 +1,401 @@
+Tender_ID,Tender_Date,Department,Category,Location,Estimated_Value,Deadline,Tender_Duration_Days
+TND-00312,2025-01-03,Public Works Department,Waste Management & Sanitation,Nagpur,4776000.0,2025-01-27,24
+TND-00325,2025-01-04,Department of Education & Literacy,IT Hardware & Networking,Nashik,887000.0,2025-02-03,30
+TND-00389,2025-01-04,Transport Infrastructure Authority,School Infrastructure & Furniture,Mumbai,4241000.0,2025-02-13,40
+TND-00387,2025-01-05,Public Works Department,Waste Management & Sanitation,Nagpur,2606000.0,2025-02-01,27
+TND-00004,2025-01-08,Municipal Corporation,Medical Equipment Supply,Thane,6705000.0,2025-01-30,22
+TND-00371,2025-01-08,Information Technology Services,IT Hardware & Networking,Thane,2022000.0,2025-02-04,27
+TND-00340,2025-01-12,Transport Infrastructure Authority,Civil Structural Engineering,Thane,1263000.0,2025-02-20,39
+TND-00348,2025-01-12,Transport Infrastructure Authority,Medical Equipment Supply,Mumbai,643000.0,2025-02-14,33
+TND-00132,2025-01-15,Water Supply & Sanitation Board,Waste Management & Sanitation,Thane,2095000.0,2025-02-09,25
+TND-00259,2025-01-15,Information Technology Services,Water Pipeline Maintenance,Mumbai,2828000.0,2025-02-03,19
+TND-00232,2025-01-16,Municipal Corporation,Water Pipeline Maintenance,Nagpur,2358000.0,2025-02-08,23
+TND-00233,2025-01-18,Information Technology Services,Water Pipeline Maintenance,Amravati,2056000.0,2025-02-09,22
+TND-00218,2025-01-19,Transport Infrastructure Authority,Civil Structural Engineering,Amravati,1641000.0,2025-02-20,32
+TND-00316,2025-01-19,Department of Health & Family Welfare,School Infrastructure & Furniture,Nagpur,2016000.0,2025-02-27,39
+TND-00164,2025-01-20,Municipal Corporation,School Infrastructure & Furniture,Amravati,1028000.0,2025-02-06,17
+TND-00283,2025-01-20,Water Supply & Sanitation Board,Road Construction & Repair,Mumbai,7052000.0,2025-02-11,22
+TND-00170,2025-01-21,Water Supply & Sanitation Board,Waste Management & Sanitation,Nagpur,1085000.0,2025-02-19,29
+TND-00219,2025-01-22,Department of Health & Family Welfare,Road Construction & Repair,Nashik,1345000.0,2025-02-25,34
+TND-00053,2025-01-23,Department of Health & Family Welfare,Civil Structural Engineering,Solapur,1154000.0,2025-02-26,34
+TND-00064,2025-01-24,Transport Infrastructure Authority,IT Hardware & Networking,Mumbai,761000.0,2025-02-27,34
+TND-00378,2025-01-24,Municipal Corporation,IT Hardware & Networking,Solapur,2296000.0,2025-02-21,28
+TND-00205,2025-01-25,Department of Health & Family Welfare,IT Hardware & Networking,Pune,659000.0,2025-02-23,29
+TND-00274,2025-01-25,Department of Health & Family Welfare,Medical Equipment Supply,Aurangabad,1999000.0,2025-02-11,17
+TND-00103,2025-01-26,Transport Infrastructure Authority,Medical Equipment Supply,Mumbai,1507000.0,2025-03-02,35
+TND-00110,2025-01-27,Public Works Department,Medical Equipment Supply,Thane,1868000.0,2025-02-18,22
+TND-00127,2025-01-27,Department of Education & Literacy,IT Hardware & Networking,Solapur,898000.0,2025-02-28,32
+TND-00291,2025-01-27,Municipal Corporation,Waste Management & Sanitation,Nashik,1679000.0,2025-03-12,44
+TND-00368,2025-01-27,Water Supply & Sanitation Board,Waste Management & Sanitation,Nashik,2003000.0,2025-02-27,31
+TND-00197,2025-01-28,Municipal Corporation,Road Construction & Repair,Solapur,978000.0,2025-03-08,39
+TND-00388,2025-01-31,Water Supply & Sanitation Board,School Infrastructure & Furniture,Aurangabad,8894000.0,2025-03-16,44
+TND-00101,2025-02-01,Water Supply & Sanitation Board,Waste Management & Sanitation,Aurangabad,639000.0,2025-03-12,39
+TND-00359,2025-02-01,Department of Education & Literacy,IT Hardware & Networking,Thane,2567000.0,2025-02-26,25
+TND-00111,2025-02-02,Transport Infrastructure Authority,School Infrastructure & Furniture,Pune,427000.0,2025-03-18,44
+TND-00206,2025-02-02,Department of Education & Literacy,Waste Management & Sanitation,Amravati,936000.0,2025-02-23,21
+TND-00117,2025-02-03,Municipal Corporation,Water Pipeline Maintenance,Nagpur,1928000.0,2025-02-25,22
+TND-00213,2025-02-04,Transport Infrastructure Authority,Road Construction & Repair,Aurangabad,4253000.0,2025-03-12,36
+TND-00047,2025-02-05,Department of Education & Literacy,Medical Equipment Supply,Nagpur,1372000.0,2025-03-08,31
+TND-00104,2025-02-05,Department of Health & Family Welfare,Medical Equipment Supply,Nashik,1044000.0,2025-03-04,27
+TND-00022,2025-02-06,Municipal Corporation,Civil Structural Engineering,Nagpur,1655000.0,2025-02-23,17
+TND-00116,2025-02-07,Department of Education & Literacy,Waste Management & Sanitation,Amravati,2524000.0,2025-02-26,19
+TND-00369,2025-02-07,Department of Education & Literacy,Waste Management & Sanitation,Mumbai,2144000.0,2025-03-05,26
+TND-00231,2025-02-08,Municipal Corporation,Waste Management & Sanitation,Mumbai,1105000.0,2025-03-19,39
+TND-00155,2025-02-09,Department of Health & Family Welfare,IT Hardware & Networking,Nagpur,2507000.0,2025-03-02,21
+TND-00165,2025-02-09,Municipal Corporation,Civil Structural Engineering,Thane,4285000.0,2025-02-28,19
+TND-00182,2025-02-09,Department of Health & Family Welfare,Medical Equipment Supply,Nagpur,999000.0,2025-03-13,32
+TND-00236,2025-02-09,Municipal Corporation,IT Hardware & Networking,Amravati,3292000.0,2025-03-03,22
+TND-00334,2025-02-09,Water Supply & Sanitation Board,School Infrastructure & Furniture,Aurangabad,1153000.0,2025-03-02,21
+TND-00226,2025-02-10,Information Technology Services,Road Construction & Repair,Solapur,4738000.0,2025-03-23,41
+TND-00255,2025-02-10,Municipal Corporation,Water Pipeline Maintenance,Thane,588000.0,2025-03-12,30
+TND-00011,2025-02-13,Information Technology Services,Water Pipeline Maintenance,Thane,1369000.0,2025-03-14,29
+TND-00152,2025-02-15,Information Technology Services,Waste Management & Sanitation,Aurangabad,2616000.0,2025-03-28,41
+TND-00027,2025-02-16,Water Supply & Sanitation Board,IT Hardware & Networking,Mumbai,790000.0,2025-03-16,28
+TND-00088,2025-02-16,Information Technology Services,Civil Structural Engineering,Aurangabad,2579000.0,2025-03-27,39
+TND-00124,2025-02-16,Transport Infrastructure Authority,School Infrastructure & Furniture,Pune,646000.0,2025-03-07,19
+TND-00135,2025-02-16,Public Works Department,Medical Equipment Supply,Mumbai,950000.0,2025-03-15,27
+TND-00337,2025-02-16,Transport Infrastructure Authority,Water Pipeline Maintenance,Amravati,1024000.0,2025-03-30,42
+TND-00269,2025-02-19,Department of Education & Literacy,Medical Equipment Supply,Nagpur,1394000.0,2025-03-08,17
+TND-00100,2025-02-20,Department of Education & Literacy,Medical Equipment Supply,Aurangabad,1643000.0,2025-03-29,37
+TND-00119,2025-02-20,Department of Education & Literacy,Water Pipeline Maintenance,Solapur,4947000.0,2025-03-13,21
+TND-00056,2025-02-21,Information Technology Services,Road Construction & Repair,Amravati,4177000.0,2025-04-05,43
+TND-00353,2025-02-21,Department of Health & Family Welfare,Medical Equipment Supply,Pune,3938000.0,2025-03-09,16
+TND-00006,2025-02-22,Transport Infrastructure Authority,Medical Equipment Supply,Amravati,1644000.0,2025-03-08,14
+TND-00128,2025-02-23,Water Supply & Sanitation Board,IT Hardware & Networking,Aurangabad,1260000.0,2025-03-22,27
+TND-00074,2025-02-24,Department of Health & Family Welfare,School Infrastructure & Furniture,Amravati,6932000.0,2025-03-25,29
+TND-00091,2025-02-25,Information Technology Services,Waste Management & Sanitation,Aurangabad,2143000.0,2025-03-25,28
+TND-00204,2025-02-26,Water Supply & Sanitation Board,Waste Management & Sanitation,Solapur,4607000.0,2025-03-30,32
+TND-00351,2025-02-27,Department of Health & Family Welfare,IT Hardware & Networking,Nashik,2543000.0,2025-03-15,16
+TND-00086,2025-02-28,Transport Infrastructure Authority,Civil Structural Engineering,Aurangabad,1327000.0,2025-04-12,43
+TND-00130,2025-02-28,Municipal Corporation,Civil Structural Engineering,Aurangabad,1325000.0,2025-03-31,31
+TND-00035,2025-03-01,Municipal Corporation,IT Hardware & Networking,Aurangabad,3829000.0,2025-04-09,39
+TND-00095,2025-03-01,Public Works Department,IT Hardware & Networking,Amravati,1449000.0,2025-03-21,20
+TND-00336,2025-03-01,Department of Health & Family Welfare,IT Hardware & Networking,Amravati,1763000.0,2025-03-28,27
+TND-00040,2025-03-04,Municipal Corporation,School Infrastructure & Furniture,Amravati,2321000.0,2025-03-19,15
+TND-00241,2025-03-04,Transport Infrastructure Authority,School Infrastructure & Furniture,Nashik,1052000.0,2025-03-26,22
+TND-00268,2025-03-04,Municipal Corporation,Medical Equipment Supply,Amravati,632000.0,2025-04-04,31
+TND-00253,2025-03-05,Water Supply & Sanitation Board,Civil Structural Engineering,Mumbai,10829000.0,2025-03-28,23
+TND-00250,2025-03-06,Information Technology Services,School Infrastructure & Furniture,Pune,2741000.0,2025-04-09,34
+TND-00256,2025-03-06,Department of Health & Family Welfare,Waste Management & Sanitation,Thane,1346000.0,2025-04-08,33
+TND-00280,2025-03-07,Information Technology Services,Water Pipeline Maintenance,Pune,1457000.0,2025-03-27,20
+TND-00177,2025-03-08,Transport Infrastructure Authority,Waste Management & Sanitation,Solapur,2003000.0,2025-03-27,19
+TND-00252,2025-03-08,Department of Health & Family Welfare,Civil Structural Engineering,Nagpur,4132000.0,2025-04-18,41
+TND-00082,2025-03-09,Public Works Department,Water Pipeline Maintenance,Aurangabad,2638000.0,2025-03-28,19
+TND-00108,2025-03-09,Transport Infrastructure Authority,Civil Structural Engineering,Mumbai,2280000.0,2025-03-23,14
+TND-00338,2025-03-09,Information Technology Services,Road Construction & Repair,Amravati,1533000.0,2025-04-18,40
+TND-00276,2025-03-10,Information Technology Services,Road Construction & Repair,Solapur,2870000.0,2025-04-09,30
+TND-00319,2025-03-10,Department of Education & Literacy,Waste Management & Sanitation,Amravati,2570000.0,2025-04-22,43
+TND-00217,2025-03-11,Transport Infrastructure Authority,School Infrastructure & Furniture,Nagpur,1068000.0,2025-03-29,18
+TND-00344,2025-03-11,Municipal Corporation,School Infrastructure & Furniture,Nagpur,1322000.0,2025-04-20,40
+TND-00386,2025-03-12,Information Technology Services,Road Construction & Repair,Solapur,2236000.0,2025-04-09,28
+TND-00094,2025-03-13,Transport Infrastructure Authority,School Infrastructure & Furniture,Pune,1526000.0,2025-03-29,16
+TND-00356,2025-03-13,Information Technology Services,Civil Structural Engineering,Mumbai,889000.0,2025-04-14,32
+TND-00200,2025-03-16,Information Technology Services,Waste Management & Sanitation,Aurangabad,795000.0,2025-04-07,22
+TND-00292,2025-03-17,Department of Health & Family Welfare,Water Pipeline Maintenance,Solapur,1337000.0,2025-04-15,29
+TND-00362,2025-03-18,Transport Infrastructure Authority,School Infrastructure & Furniture,Solapur,6758000.0,2025-04-20,33
+TND-00010,2025-03-19,Public Works Department,Water Pipeline Maintenance,Mumbai,3060000.0,2025-04-11,23
+TND-00161,2025-03-19,Information Technology Services,Waste Management & Sanitation,Aurangabad,909000.0,2025-04-30,42
+TND-00294,2025-03-19,Department of Education & Literacy,IT Hardware & Networking,Solapur,3912000.0,2025-04-28,40
+TND-00331,2025-03-20,Department of Health & Family Welfare,Medical Equipment Supply,Amravati,1963000.0,2025-05-02,43
+TND-00016,2025-03-22,Municipal Corporation,Waste Management & Sanitation,Pune,1264000.0,2025-04-20,29
+TND-00017,2025-03-22,Department of Health & Family Welfare,Water Pipeline Maintenance,Pune,882000.0,2025-04-05,14
+TND-00264,2025-03-22,Public Works Department,Waste Management & Sanitation,Mumbai,874000.0,2025-05-03,42
+TND-00032,2025-03-24,Municipal Corporation,Waste Management & Sanitation,Pune,8726000.0,2025-04-28,35
+TND-00191,2025-03-24,Information Technology Services,School Infrastructure & Furniture,Solapur,1387000.0,2025-04-19,26
+TND-00229,2025-03-27,Municipal Corporation,School Infrastructure & Furniture,Solapur,1119000.0,2025-05-08,42
+TND-00383,2025-03-28,Department of Education & Literacy,Medical Equipment Supply,Aurangabad,363000.0,2025-04-19,22
+TND-00067,2025-03-29,Water Supply & Sanitation Board,Waste Management & Sanitation,Nagpur,1872000.0,2025-04-23,25
+TND-00151,2025-03-29,Department of Education & Literacy,Road Construction & Repair,Aurangabad,2423000.0,2025-05-11,43
+TND-00258,2025-03-29,Water Supply & Sanitation Board,Water Pipeline Maintenance,Nagpur,1126000.0,2025-05-03,35
+TND-00158,2025-03-30,Department of Health & Family Welfare,IT Hardware & Networking,Nashik,2897000.0,2025-04-22,23
+TND-00242,2025-03-30,Information Technology Services,Road Construction & Repair,Amravati,1809000.0,2025-05-11,42
+TND-00298,2025-03-30,Water Supply & Sanitation Board,School Infrastructure & Furniture,Aurangabad,2535000.0,2025-05-12,43
+TND-00083,2025-03-31,Municipal Corporation,IT Hardware & Networking,Solapur,6468000.0,2025-04-26,26
+TND-00107,2025-03-31,Department of Health & Family Welfare,Water Pipeline Maintenance,Thane,8966000.0,2025-04-21,21
+TND-00146,2025-03-31,Public Works Department,School Infrastructure & Furniture,Solapur,3706000.0,2025-04-22,22
+TND-00159,2025-04-01,Information Technology Services,Civil Structural Engineering,Pune,764000.0,2025-05-16,45
+TND-00391,2025-04-02,Public Works Department,Water Pipeline Maintenance,Solapur,966000.0,2025-04-22,20
+TND-00324,2025-04-05,Public Works Department,School Infrastructure & Furniture,Pune,10574000.0,2025-04-27,22
+TND-00384,2025-04-05,Transport Infrastructure Authority,Water Pipeline Maintenance,Amravati,1302000.0,2025-04-22,17
+TND-00238,2025-04-06,Department of Health & Family Welfare,Road Construction & Repair,Mumbai,2302000.0,2025-05-21,45
+TND-00321,2025-04-06,Transport Infrastructure Authority,School Infrastructure & Furniture,Thane,2143000.0,2025-04-20,14
+TND-00271,2025-04-08,Information Technology Services,IT Hardware & Networking,Aurangabad,6281000.0,2025-05-02,24
+TND-00293,2025-04-08,Public Works Department,Water Pipeline Maintenance,Pune,1237000.0,2025-04-23,15
+TND-00001,2025-04-09,Information Technology Services,Waste Management & Sanitation,Nagpur,2950000.0,2025-05-06,27
+TND-00189,2025-04-10,Municipal Corporation,Civil Structural Engineering,Amravati,1007000.0,2025-05-17,37
+TND-00265,2025-04-15,Department of Education & Literacy,School Infrastructure & Furniture,Amravati,1620000.0,2025-05-20,35
+TND-00366,2025-04-15,Department of Education & Literacy,Medical Equipment Supply,Thane,1438000.0,2025-05-20,35
+TND-00015,2025-04-17,Water Supply & Sanitation Board,Waste Management & Sanitation,Pune,499000.0,2025-05-14,27
+TND-00144,2025-04-19,Public Works Department,Medical Equipment Supply,Thane,2298000.0,2025-05-11,22
+TND-00307,2025-04-20,Transport Infrastructure Authority,IT Hardware & Networking,Amravati,5510000.0,2025-05-16,26
+TND-00203,2025-04-21,Public Works Department,Road Construction & Repair,Thane,4716000.0,2025-05-14,23
+TND-00099,2025-04-22,Municipal Corporation,Road Construction & Repair,Aurangabad,1991000.0,2025-06-03,42
+TND-00341,2025-04-22,Municipal Corporation,Civil Structural Engineering,Mumbai,1027000.0,2025-05-10,18
+TND-00196,2025-04-24,Information Technology Services,School Infrastructure & Furniture,Pune,2699000.0,2025-06-05,42
+TND-00129,2025-04-25,Department of Health & Family Welfare,Waste Management & Sanitation,Amravati,2147000.0,2025-05-15,20
+TND-00069,2025-04-29,Department of Education & Literacy,Water Pipeline Maintenance,Nagpur,2648000.0,2025-06-11,43
+TND-00188,2025-04-30,Information Technology Services,Waste Management & Sanitation,Amravati,1871000.0,2025-05-29,29
+TND-00157,2025-05-01,Transport Infrastructure Authority,Civil Structural Engineering,Nagpur,8821000.0,2025-05-21,20
+TND-00246,2025-05-02,Public Works Department,Medical Equipment Supply,Nagpur,1517000.0,2025-06-16,45
+TND-00363,2025-05-04,Department of Education & Literacy,Medical Equipment Supply,Amravati,1818000.0,2025-06-01,28
+TND-00392,2025-05-04,Public Works Department,Water Pipeline Maintenance,Nagpur,2939000.0,2025-05-30,26
+TND-00309,2025-05-05,Department of Health & Family Welfare,Road Construction & Repair,Nashik,3072000.0,2025-05-22,17
+TND-00354,2025-05-06,Department of Education & Literacy,Water Pipeline Maintenance,Mumbai,1745000.0,2025-05-22,16
+TND-00300,2025-05-07,Water Supply & Sanitation Board,School Infrastructure & Furniture,Nashik,3281000.0,2025-06-07,31
+TND-00333,2025-05-07,Information Technology Services,Water Pipeline Maintenance,Nashik,2107000.0,2025-05-26,19
+TND-00270,2025-05-08,Municipal Corporation,School Infrastructure & Furniture,Solapur,2201000.0,2025-06-01,24
+TND-00192,2025-05-09,Information Technology Services,Water Pipeline Maintenance,Nagpur,3934000.0,2025-05-26,17
+TND-00008,2025-05-10,Municipal Corporation,Medical Equipment Supply,Mumbai,3664000.0,2025-06-23,44
+TND-00070,2025-05-11,Transport Infrastructure Authority,IT Hardware & Networking,Amravati,1183000.0,2025-05-25,14
+TND-00327,2025-05-14,Municipal Corporation,Water Pipeline Maintenance,Mumbai,5008000.0,2025-06-20,37
+TND-00379,2025-05-14,Transport Infrastructure Authority,Medical Equipment Supply,Mumbai,11431000.0,2025-06-23,40
+TND-00239,2025-05-15,Water Supply & Sanitation Board,School Infrastructure & Furniture,Pune,1168000.0,2025-06-14,30
+TND-00020,2025-05-16,Public Works Department,Waste Management & Sanitation,Nashik,641000.0,2025-06-11,26
+TND-00039,2025-05-17,Information Technology Services,Road Construction & Repair,Nashik,685000.0,2025-06-08,22
+TND-00326,2025-05-17,Department of Education & Literacy,Medical Equipment Supply,Amravati,751000.0,2025-06-21,35
+TND-00106,2025-05-22,Information Technology Services,Water Pipeline Maintenance,Mumbai,2739000.0,2025-06-14,23
+TND-00194,2025-05-26,Transport Infrastructure Authority,Civil Structural Engineering,Pune,732000.0,2025-06-14,19
+TND-00221,2025-05-27,Municipal Corporation,Road Construction & Repair,Nashik,12632000.0,2025-07-02,36
+TND-00275,2025-05-27,Municipal Corporation,School Infrastructure & Furniture,Amravati,904000.0,2025-06-10,14
+TND-00314,2025-05-27,Information Technology Services,IT Hardware & Networking,Aurangabad,3801000.0,2025-06-13,17
+TND-00033,2025-05-28,Department of Education & Literacy,Waste Management & Sanitation,Amravati,1961000.0,2025-07-06,39
+TND-00303,2025-05-28,Municipal Corporation,Water Pipeline Maintenance,Thane,3605000.0,2025-06-18,21
+TND-00150,2025-05-29,Water Supply & Sanitation Board,School Infrastructure & Furniture,Solapur,2515000.0,2025-06-19,21
+TND-00305,2025-05-29,Information Technology Services,Civil Structural Engineering,Nagpur,1950000.0,2025-06-14,16
+TND-00317,2025-05-29,Information Technology Services,School Infrastructure & Furniture,Nagpur,3421000.0,2025-06-14,16
+TND-00018,2025-05-30,Department of Education & Literacy,School Infrastructure & Furniture,Amravati,2549000.0,2025-06-15,16
+TND-00003,2025-06-01,Public Works Department,Civil Structural Engineering,Nashik,3329000.0,2025-06-29,28
+TND-00049,2025-06-02,Information Technology Services,Road Construction & Repair,Thane,2610000.0,2025-07-17,45
+TND-00263,2025-06-02,Department of Education & Literacy,Medical Equipment Supply,Solapur,300000.0,2025-07-15,43
+TND-00301,2025-06-02,Water Supply & Sanitation Board,IT Hardware & Networking,Nashik,1022000.0,2025-07-04,32
+TND-00244,2025-06-03,Transport Infrastructure Authority,Road Construction & Repair,Thane,3963000.0,2025-06-27,24
+TND-00014,2025-06-06,Municipal Corporation,Civil Structural Engineering,Solapur,429000.0,2025-06-23,17
+TND-00375,2025-06-07,Water Supply & Sanitation Board,Waste Management & Sanitation,Aurangabad,11101000.0,2025-07-07,30
+TND-00081,2025-06-08,Transport Infrastructure Authority,Waste Management & Sanitation,Mumbai,1663000.0,2025-07-20,42
+TND-00154,2025-06-08,Water Supply & Sanitation Board,Road Construction & Repair,Solapur,2388000.0,2025-07-13,35
+TND-00248,2025-06-08,Water Supply & Sanitation Board,Road Construction & Repair,Pune,1176000.0,2025-07-17,39
+TND-00122,2025-06-10,Department of Education & Literacy,Waste Management & Sanitation,Pune,958000.0,2025-07-21,41
+TND-00237,2025-06-10,Water Supply & Sanitation Board,IT Hardware & Networking,Solapur,392000.0,2025-07-11,31
+TND-00302,2025-06-12,Transport Infrastructure Authority,Medical Equipment Supply,Amravati,1267000.0,2025-07-26,44
+TND-00199,2025-06-13,Municipal Corporation,Medical Equipment Supply,Mumbai,2077000.0,2025-07-03,20
+TND-00266,2025-06-13,Water Supply & Sanitation Board,Medical Equipment Supply,Aurangabad,731000.0,2025-07-19,36
+TND-00377,2025-06-13,Information Technology Services,Waste Management & Sanitation,Amravati,3984000.0,2025-07-10,27
+TND-00167,2025-06-14,Department of Education & Literacy,Civil Structural Engineering,Nashik,3827000.0,2025-07-28,44
+TND-00254,2025-06-15,Municipal Corporation,Medical Equipment Supply,Nagpur,4529000.0,2025-07-13,28
+TND-00145,2025-06-17,Information Technology Services,IT Hardware & Networking,Thane,2441000.0,2025-07-08,21
+TND-00228,2025-06-17,Municipal Corporation,Road Construction & Repair,Pune,837000.0,2025-07-19,32
+TND-00285,2025-06-17,Department of Health & Family Welfare,Water Pipeline Maintenance,Nagpur,10923000.0,2025-07-21,34
+TND-00105,2025-06-18,Water Supply & Sanitation Board,Medical Equipment Supply,Nashik,1743000.0,2025-07-11,23
+TND-00380,2025-06-18,Municipal Corporation,Medical Equipment Supply,Nashik,1039000.0,2025-07-16,28
+TND-00311,2025-06-19,Public Works Department,Road Construction & Repair,Solapur,1666000.0,2025-08-02,44
+TND-00320,2025-06-19,Municipal Corporation,Medical Equipment Supply,Pune,1787000.0,2025-07-13,24
+TND-00175,2025-06-20,Municipal Corporation,IT Hardware & Networking,Nagpur,2474000.0,2025-07-09,19
+TND-00318,2025-06-21,Public Works Department,IT Hardware & Networking,Pune,1547000.0,2025-07-23,32
+TND-00058,2025-06-23,Public Works Department,School Infrastructure & Furniture,Thane,1548000.0,2025-08-01,39
+TND-00133,2025-06-23,Municipal Corporation,Waste Management & Sanitation,Thane,848000.0,2025-07-29,36
+TND-00224,2025-06-23,Transport Infrastructure Authority,School Infrastructure & Furniture,Solapur,546000.0,2025-07-18,25
+TND-00048,2025-06-24,Information Technology Services,Civil Structural Engineering,Solapur,4619000.0,2025-07-25,31
+TND-00136,2025-06-24,Department of Education & Literacy,School Infrastructure & Furniture,Amravati,6851000.0,2025-07-18,24
+TND-00141,2025-06-26,Department of Health & Family Welfare,Civil Structural Engineering,Pune,2378000.0,2025-08-06,41
+TND-00306,2025-06-27,Municipal Corporation,Waste Management & Sanitation,Pune,2178000.0,2025-08-08,42
+TND-00156,2025-06-28,Water Supply & Sanitation Board,Water Pipeline Maintenance,Nashik,1120000.0,2025-08-03,36
+TND-00176,2025-06-29,Water Supply & Sanitation Board,Waste Management & Sanitation,Nagpur,3843000.0,2025-08-01,33
+TND-00163,2025-06-30,Information Technology Services,IT Hardware & Networking,Mumbai,5010000.0,2025-07-18,18
+TND-00230,2025-06-30,Municipal Corporation,School Infrastructure & Furniture,Mumbai,3415000.0,2025-08-10,41
+TND-00393,2025-07-01,Water Supply & Sanitation Board,Water Pipeline Maintenance,Thane,690000.0,2025-08-01,31
+TND-00065,2025-07-03,Information Technology Services,Road Construction & Repair,Thane,3798000.0,2025-08-09,37
+TND-00180,2025-07-05,Water Supply & Sanitation Board,IT Hardware & Networking,Mumbai,17472000.0,2025-08-07,33
+TND-00234,2025-07-05,Public Works Department,Medical Equipment Supply,Aurangabad,1177000.0,2025-08-12,38
+TND-00245,2025-07-05,Transport Infrastructure Authority,Waste Management & Sanitation,Nagpur,759000.0,2025-08-02,28
+TND-00278,2025-07-05,Department of Education & Literacy,Road Construction & Repair,Nashik,1227000.0,2025-08-06,32
+TND-00277,2025-07-07,Transport Infrastructure Authority,IT Hardware & Networking,Solapur,2325000.0,2025-07-23,16
+TND-00225,2025-07-08,Department of Education & Literacy,Waste Management & Sanitation,Amravati,1359000.0,2025-08-08,31
+TND-00288,2025-07-08,Department of Education & Literacy,Civil Structural Engineering,Mumbai,3174000.0,2025-08-12,35
+TND-00330,2025-07-08,Transport Infrastructure Authority,Road Construction & Repair,Thane,3278000.0,2025-08-05,28
+TND-00367,2025-07-09,Transport Infrastructure Authority,Road Construction & Repair,Amravati,2372000.0,2025-07-28,19
+TND-00125,2025-07-10,Public Works Department,School Infrastructure & Furniture,Pune,3171000.0,2025-08-01,22
+TND-00123,2025-07-11,Municipal Corporation,Waste Management & Sanitation,Thane,6090000.0,2025-08-03,23
+TND-00212,2025-07-11,Public Works Department,Waste Management & Sanitation,Solapur,4918000.0,2025-08-10,30
+TND-00394,2025-07-11,Information Technology Services,School Infrastructure & Furniture,Pune,8582000.0,2025-08-19,39
+TND-00345,2025-07-13,Municipal Corporation,School Infrastructure & Furniture,Amravati,1360000.0,2025-08-20,38
+TND-00397,2025-07-13,Public Works Department,School Infrastructure & Furniture,Solapur,504000.0,2025-08-26,44
+TND-00374,2025-07-14,Water Supply & Sanitation Board,IT Hardware & Networking,Thane,4271000.0,2025-08-26,43
+TND-00118,2025-07-15,Municipal Corporation,Water Pipeline Maintenance,Aurangabad,778000.0,2025-08-16,32
+TND-00054,2025-07-17,Transport Infrastructure Authority,School Infrastructure & Furniture,Solapur,3234000.0,2025-08-09,23
+TND-00198,2025-07-17,Water Supply & Sanitation Board,IT Hardware & Networking,Nashik,2242000.0,2025-08-05,19
+TND-00096,2025-07-18,Department of Health & Family Welfare,Water Pipeline Maintenance,Nagpur,615000.0,2025-08-30,43
+TND-00172,2025-07-18,Municipal Corporation,IT Hardware & Networking,Thane,1032000.0,2025-08-27,40
+TND-00211,2025-07-19,Public Works Department,Water Pipeline Maintenance,Mumbai,3131000.0,2025-09-01,44
+TND-00273,2025-07-21,Department of Education & Literacy,Road Construction & Repair,Pune,5028000.0,2025-09-02,43
+TND-00304,2025-07-22,Water Supply & Sanitation Board,Waste Management & Sanitation,Solapur,3231000.0,2025-08-27,36
+TND-00373,2025-07-23,Transport Infrastructure Authority,Water Pipeline Maintenance,Nashik,6331000.0,2025-08-21,29
+TND-00009,2025-07-25,Public Works Department,Civil Structural Engineering,Pune,1362000.0,2025-09-08,45
+TND-00329,2025-07-27,Department of Education & Literacy,IT Hardware & Networking,Nagpur,3267000.0,2025-08-29,33
+TND-00031,2025-07-29,Public Works Department,School Infrastructure & Furniture,Aurangabad,1225000.0,2025-09-02,35
+TND-00057,2025-07-29,Public Works Department,Waste Management & Sanitation,Nagpur,1013000.0,2025-08-21,23
+TND-00186,2025-07-30,Transport Infrastructure Authority,School Infrastructure & Furniture,Mumbai,3510000.0,2025-09-05,37
+TND-00045,2025-08-01,Water Supply & Sanitation Board,Waste Management & Sanitation,Thane,608000.0,2025-09-14,44
+TND-00140,2025-08-01,Department of Education & Literacy,Water Pipeline Maintenance,Amravati,741000.0,2025-09-01,31
+TND-00332,2025-08-01,Transport Infrastructure Authority,Water Pipeline Maintenance,Aurangabad,967000.0,2025-09-14,44
+TND-00115,2025-08-07,Public Works Department,School Infrastructure & Furniture,Solapur,1700000.0,2025-08-27,20
+TND-00323,2025-08-07,Department of Health & Family Welfare,Water Pipeline Maintenance,Solapur,1030000.0,2025-09-10,34
+TND-00208,2025-08-08,Transport Infrastructure Authority,Medical Equipment Supply,Thane,2991000.0,2025-08-22,14
+TND-00120,2025-08-09,Information Technology Services,Waste Management & Sanitation,Nashik,3618000.0,2025-09-20,42
+TND-00026,2025-08-10,Department of Education & Literacy,Road Construction & Repair,Mumbai,2167000.0,2025-09-13,34
+TND-00062,2025-08-11,Department of Health & Family Welfare,Waste Management & Sanitation,Pune,1709000.0,2025-08-31,20
+TND-00148,2025-08-12,Public Works Department,School Infrastructure & Furniture,Mumbai,689000.0,2025-08-27,15
+TND-00153,2025-08-12,Information Technology Services,Road Construction & Repair,Nashik,1151000.0,2025-09-20,39
+TND-00223,2025-08-12,Municipal Corporation,Road Construction & Repair,Aurangabad,3433000.0,2025-09-20,39
+TND-00139,2025-08-15,Transport Infrastructure Authority,Road Construction & Repair,Thane,3801000.0,2025-09-25,41
+TND-00063,2025-08-16,Information Technology Services,Waste Management & Sanitation,Pune,818000.0,2025-09-09,24
+TND-00187,2025-08-16,Transport Infrastructure Authority,Waste Management & Sanitation,Nashik,2895000.0,2025-09-17,32
+TND-00202,2025-08-18,Information Technology Services,Waste Management & Sanitation,Amravati,3105000.0,2025-09-01,14
+TND-00013,2025-08-19,Information Technology Services,Water Pipeline Maintenance,Solapur,2406000.0,2025-09-30,42
+TND-00168,2025-08-19,Water Supply & Sanitation Board,Medical Equipment Supply,Mumbai,9042000.0,2025-09-08,20
+TND-00195,2025-08-19,Information Technology Services,Medical Equipment Supply,Thane,2277000.0,2025-09-11,23
+TND-00034,2025-08-21,Information Technology Services,Civil Structural Engineering,Mumbai,851000.0,2025-09-09,19
+TND-00089,2025-08-21,Public Works Department,IT Hardware & Networking,Pune,1298000.0,2025-09-27,37
+TND-00102,2025-08-21,Municipal Corporation,Medical Equipment Supply,Pune,1416000.0,2025-09-09,19
+TND-00121,2025-08-21,Department of Health & Family Welfare,School Infrastructure & Furniture,Aurangabad,3733000.0,2025-09-29,39
+TND-00051,2025-08-22,Municipal Corporation,IT Hardware & Networking,Solapur,2570000.0,2025-09-25,34
+TND-00073,2025-08-22,Transport Infrastructure Authority,School Infrastructure & Furniture,Thane,1927000.0,2025-09-24,33
+TND-00114,2025-08-23,Transport Infrastructure Authority,Civil Structural Engineering,Thane,14226000.0,2025-09-07,15
+TND-00350,2025-08-24,Information Technology Services,Medical Equipment Supply,Nashik,1672000.0,2025-09-29,36
+TND-00043,2025-08-25,Public Works Department,Medical Equipment Supply,Pune,1808000.0,2025-09-15,21
+TND-00166,2025-08-25,Water Supply & Sanitation Board,Water Pipeline Maintenance,Solapur,2759000.0,2025-09-10,16
+TND-00190,2025-08-25,Transport Infrastructure Authority,Water Pipeline Maintenance,Amravati,590000.0,2025-09-26,32
+TND-00364,2025-08-26,Municipal Corporation,Civil Structural Engineering,Nagpur,2734000.0,2025-09-12,17
+TND-00251,2025-08-27,Transport Infrastructure Authority,Road Construction & Repair,Amravati,723000.0,2025-10-02,36
+TND-00376,2025-08-27,Municipal Corporation,Water Pipeline Maintenance,Amravati,1073000.0,2025-09-16,20
+TND-00247,2025-08-28,Public Works Department,IT Hardware & Networking,Aurangabad,1356000.0,2025-09-19,22
+TND-00029,2025-08-29,Water Supply & Sanitation Board,Road Construction & Repair,Nagpur,1226000.0,2025-10-10,42
+TND-00343,2025-08-30,Water Supply & Sanitation Board,Road Construction & Repair,Pune,2412000.0,2025-09-15,16
+TND-00313,2025-09-02,Department of Education & Literacy,Waste Management & Sanitation,Amravati,3838000.0,2025-09-28,26
+TND-00007,2025-09-03,Water Supply & Sanitation Board,IT Hardware & Networking,Amravati,7014000.0,2025-10-15,42
+TND-00370,2025-09-03,Information Technology Services,Civil Structural Engineering,Nashik,1068000.0,2025-09-30,27
+TND-00372,2025-09-03,Department of Health & Family Welfare,Waste Management & Sanitation,Pune,2953000.0,2025-10-02,29
+TND-00085,2025-09-04,Information Technology Services,Medical Equipment Supply,Thane,1038000.0,2025-10-06,32
+TND-00181,2025-09-06,Department of Health & Family Welfare,Medical Equipment Supply,Aurangabad,3271000.0,2025-10-02,26
+TND-00098,2025-09-08,Department of Education & Literacy,Waste Management & Sanitation,Pune,2443000.0,2025-10-18,40
+TND-00044,2025-09-13,Transport Infrastructure Authority,Civil Structural Engineering,Nagpur,1558000.0,2025-10-15,32
+TND-00272,2025-09-13,Department of Education & Literacy,Water Pipeline Maintenance,Amravati,629000.0,2025-10-16,33
+TND-00381,2025-09-13,Department of Education & Literacy,Water Pipeline Maintenance,Nashik,1013000.0,2025-10-18,35
+TND-00025,2025-09-14,Transport Infrastructure Authority,School Infrastructure & Furniture,Thane,1283000.0,2025-10-29,45
+TND-00147,2025-09-14,Department of Education & Literacy,Water Pipeline Maintenance,Nashik,737000.0,2025-10-20,36
+TND-00295,2025-09-14,Transport Infrastructure Authority,Medical Equipment Supply,Solapur,2638000.0,2025-10-28,44
+TND-00055,2025-09-15,Department of Education & Literacy,Road Construction & Repair,Nagpur,4524000.0,2025-10-20,35
+TND-00257,2025-09-15,Water Supply & Sanitation Board,Water Pipeline Maintenance,Pune,5463000.0,2025-10-09,24
+TND-00183,2025-09-17,Information Technology Services,Civil Structural Engineering,Pune,842000.0,2025-10-03,16
+TND-00112,2025-09-20,Department of Education & Literacy,Civil Structural Engineering,Aurangabad,1941000.0,2025-10-10,20
+TND-00267,2025-09-21,Department of Education & Literacy,Medical Equipment Supply,Aurangabad,7319000.0,2025-10-11,20
+TND-00037,2025-09-23,Department of Education & Literacy,Road Construction & Repair,Nashik,2343000.0,2025-10-30,37
+TND-00284,2025-09-23,Transport Infrastructure Authority,IT Hardware & Networking,Amravati,737000.0,2025-11-05,43
+TND-00171,2025-09-26,Transport Infrastructure Authority,School Infrastructure & Furniture,Amravati,973000.0,2025-10-20,24
+TND-00210,2025-09-26,Department of Health & Family Welfare,Waste Management & Sanitation,Pune,43236000.0,2025-11-02,37
+TND-00361,2025-09-26,Public Works Department,IT Hardware & Networking,Solapur,3004000.0,2025-10-30,34
+TND-00142,2025-09-27,Public Works Department,IT Hardware & Networking,Amravati,5642000.0,2025-10-30,33
+TND-00249,2025-09-27,Transport Infrastructure Authority,Waste Management & Sanitation,Amravati,8141000.0,2025-11-06,40
+TND-00347,2025-09-28,Public Works Department,Medical Equipment Supply,Solapur,623000.0,2025-10-20,22
+TND-00400,2025-09-28,Water Supply & Sanitation Board,Civil Structural Engineering,Pune,5337000.0,2025-10-14,16
+TND-00066,2025-09-29,Department of Education & Literacy,Medical Equipment Supply,Nashik,5868000.0,2025-11-08,40
+TND-00084,2025-09-29,Department of Health & Family Welfare,Civil Structural Engineering,Aurangabad,1310000.0,2025-10-30,31
+TND-00349,2025-09-30,Department of Education & Literacy,Waste Management & Sanitation,Solapur,1116000.0,2025-11-07,38
+TND-00315,2025-10-01,Information Technology Services,Road Construction & Repair,Nashik,5634000.0,2025-10-17,16
+TND-00390,2025-10-02,Public Works Department,Road Construction & Repair,Thane,1250000.0,2025-11-03,32
+TND-00050,2025-10-03,Information Technology Services,Medical Equipment Supply,Amravati,484000.0,2025-11-16,44
+TND-00355,2025-10-04,Department of Education & Literacy,School Infrastructure & Furniture,Nashik,1953000.0,2025-10-31,27
+TND-00060,2025-10-05,Municipal Corporation,Waste Management & Sanitation,Amravati,4327000.0,2025-10-21,16
+TND-00220,2025-10-06,Municipal Corporation,Water Pipeline Maintenance,Solapur,2117000.0,2025-11-19,44
+TND-00215,2025-10-07,Department of Health & Family Welfare,Road Construction & Repair,Aurangabad,1541000.0,2025-11-11,35
+TND-00227,2025-10-07,Water Supply & Sanitation Board,Civil Structural Engineering,Nagpur,2087000.0,2025-11-08,32
+TND-00279,2025-10-09,Public Works Department,School Infrastructure & Furniture,Amravati,2097000.0,2025-11-09,31
+TND-00042,2025-10-10,Municipal Corporation,Water Pipeline Maintenance,Mumbai,2274000.0,2025-11-19,40
+TND-00046,2025-10-10,Department of Education & Literacy,Medical Equipment Supply,Amravati,1115000.0,2025-11-02,23
+TND-00005,2025-10-11,Municipal Corporation,Road Construction & Repair,Mumbai,1644000.0,2025-11-12,32
+TND-00193,2025-10-11,Transport Infrastructure Authority,School Infrastructure & Furniture,Aurangabad,2353000.0,2025-10-31,20
+TND-00360,2025-10-12,Transport Infrastructure Authority,Waste Management & Sanitation,Solapur,1023000.0,2025-11-26,45
+TND-00174,2025-10-13,Public Works Department,IT Hardware & Networking,Pune,2605000.0,2025-11-20,38
+TND-00281,2025-10-13,Department of Education & Literacy,IT Hardware & Networking,Aurangabad,2171000.0,2025-11-19,37
+TND-00365,2025-10-13,Water Supply & Sanitation Board,School Infrastructure & Furniture,Solapur,3444000.0,2025-11-04,22
+TND-00339,2025-10-14,Department of Education & Literacy,Water Pipeline Maintenance,Mumbai,2759000.0,2025-11-26,43
+TND-00131,2025-10-15,Water Supply & Sanitation Board,Medical Equipment Supply,Solapur,573000.0,2025-10-30,15
+TND-00308,2025-10-15,Information Technology Services,Water Pipeline Maintenance,Thane,1235000.0,2025-11-15,31
+TND-00134,2025-10-17,Public Works Department,Medical Equipment Supply,Nagpur,2896000.0,2025-11-25,39
+TND-00137,2025-10-18,Municipal Corporation,IT Hardware & Networking,Aurangabad,1060000.0,2025-11-06,19
+TND-00322,2025-10-18,Transport Infrastructure Authority,IT Hardware & Networking,Thane,3192000.0,2025-11-13,26
+TND-00052,2025-10-20,Information Technology Services,Medical Equipment Supply,Nashik,1457000.0,2025-11-27,38
+TND-00209,2025-10-20,Water Supply & Sanitation Board,IT Hardware & Networking,Nashik,2994000.0,2025-11-29,40
+TND-00335,2025-10-21,Public Works Department,Civil Structural Engineering,Nashik,4326000.0,2025-11-13,23
+TND-00075,2025-10-22,Department of Education & Literacy,Water Pipeline Maintenance,Aurangabad,300000.0,2025-11-23,32
+TND-00149,2025-10-22,Department of Education & Literacy,Road Construction & Repair,Aurangabad,3010000.0,2025-12-02,41
+TND-00357,2025-10-23,Department of Health & Family Welfare,Civil Structural Engineering,Aurangabad,1954000.0,2025-11-26,34
+TND-00214,2025-10-25,Department of Health & Family Welfare,Waste Management & Sanitation,Pune,3339000.0,2025-11-29,35
+TND-00289,2025-10-26,Transport Infrastructure Authority,Road Construction & Repair,Solapur,2483000.0,2025-11-28,33
+TND-00090,2025-10-27,Transport Infrastructure Authority,Waste Management & Sanitation,Thane,2989000.0,2025-12-04,38
+TND-00072,2025-10-28,Public Works Department,School Infrastructure & Furniture,Aurangabad,6786000.0,2025-11-30,33
+TND-00097,2025-10-28,Municipal Corporation,Waste Management & Sanitation,Solapur,2513000.0,2025-11-20,23
+TND-00002,2025-10-29,Transport Infrastructure Authority,School Infrastructure & Furniture,Thane,1775000.0,2025-11-30,32
+TND-00109,2025-10-29,Municipal Corporation,Civil Structural Engineering,Nashik,2436000.0,2025-12-02,34
+TND-00286,2025-10-31,Department of Health & Family Welfare,School Infrastructure & Furniture,Thane,416000.0,2025-12-05,35
+TND-00023,2025-11-01,Department of Health & Family Welfare,Civil Structural Engineering,Thane,2093000.0,2025-12-03,32
+TND-00184,2025-11-02,Transport Infrastructure Authority,IT Hardware & Networking,Nagpur,2917000.0,2025-12-10,38
+TND-00290,2025-11-02,Information Technology Services,Waste Management & Sanitation,Mumbai,1205000.0,2025-12-16,44
+TND-00143,2025-11-03,Public Works Department,Medical Equipment Supply,Solapur,548000.0,2025-11-20,17
+TND-00282,2025-11-05,Information Technology Services,Medical Equipment Supply,Nashik,3368000.0,2025-12-14,39
+TND-00012,2025-11-07,Public Works Department,Water Pipeline Maintenance,Solapur,1366000.0,2025-12-05,28
+TND-00077,2025-11-07,Municipal Corporation,Road Construction & Repair,Mumbai,2126000.0,2025-12-22,45
+TND-00078,2025-11-07,Information Technology Services,IT Hardware & Networking,Nashik,1561000.0,2025-12-13,36
+TND-00092,2025-11-09,Department of Education & Literacy,Road Construction & Repair,Aurangabad,4303000.0,2025-12-07,28
+TND-00240,2025-11-10,Transport Infrastructure Authority,School Infrastructure & Furniture,Nashik,3921000.0,2025-12-12,32
+TND-00113,2025-11-11,Department of Education & Literacy,Water Pipeline Maintenance,Nashik,2081000.0,2025-11-27,16
+TND-00352,2025-11-11,Information Technology Services,Waste Management & Sanitation,Solapur,6454000.0,2025-11-26,15
+TND-00138,2025-11-13,Public Works Department,Medical Equipment Supply,Nagpur,1532000.0,2025-11-30,17
+TND-00261,2025-11-13,Information Technology Services,Water Pipeline Maintenance,Solapur,945000.0,2025-11-28,15
+TND-00068,2025-11-14,Public Works Department,Water Pipeline Maintenance,Solapur,4425000.0,2025-12-13,29
+TND-00079,2025-11-14,Department of Health & Family Welfare,Waste Management & Sanitation,Nashik,2134000.0,2025-12-14,30
+TND-00038,2025-11-17,Water Supply & Sanitation Board,Civil Structural Engineering,Amravati,413000.0,2025-12-29,42
+TND-00080,2025-11-18,Transport Infrastructure Authority,Civil Structural Engineering,Nagpur,404000.0,2025-12-08,20
+TND-00061,2025-11-20,Water Supply & Sanitation Board,Road Construction & Repair,Nashik,1351000.0,2025-12-22,32
+TND-00162,2025-11-20,Public Works Department,School Infrastructure & Furniture,Amravati,3722000.0,2025-12-23,33
+TND-00173,2025-11-20,Information Technology Services,IT Hardware & Networking,Mumbai,1864000.0,2025-12-25,35
+TND-00207,2025-11-20,Information Technology Services,School Infrastructure & Furniture,Mumbai,2994000.0,2025-12-19,29
+TND-00030,2025-11-22,Municipal Corporation,Medical Equipment Supply,Solapur,1570000.0,2026-01-06,45
+TND-00310,2025-11-23,Transport Infrastructure Authority,Water Pipeline Maintenance,Nashik,1687000.0,2025-12-21,28
+TND-00262,2025-11-25,Department of Education & Literacy,Waste Management & Sanitation,Thane,1891000.0,2025-12-28,33
+TND-00382,2025-11-25,Municipal Corporation,Civil Structural Engineering,Amravati,1227000.0,2026-01-09,45
+TND-00178,2025-11-26,Municipal Corporation,Water Pipeline Maintenance,Solapur,6343000.0,2025-12-31,35
+TND-00179,2025-11-27,Information Technology Services,Medical Equipment Supply,Pune,1604000.0,2026-01-07,41
+TND-00399,2025-11-27,Public Works Department,School Infrastructure & Furniture,Solapur,1809000.0,2026-01-01,35
+TND-00021,2025-11-28,Department of Education & Literacy,Road Construction & Repair,Nashik,6405000.0,2025-12-21,23
+TND-00260,2025-11-30,Public Works Department,Waste Management & Sanitation,Thane,3685000.0,2025-12-27,27
+TND-00346,2025-12-01,Public Works Department,Waste Management & Sanitation,Nagpur,2387000.0,2026-01-06,36
+TND-00396,2025-12-01,Municipal Corporation,Waste Management & Sanitation,Pune,1362000.0,2025-12-17,16
+TND-00222,2025-12-02,Information Technology Services,Civil Structural Engineering,Mumbai,445000.0,2026-01-06,35
+TND-00036,2025-12-03,Information Technology Services,Water Pipeline Maintenance,Mumbai,747000.0,2026-01-15,43
+TND-00076,2025-12-04,Transport Infrastructure Authority,IT Hardware & Networking,Mumbai,3827000.0,2026-01-12,39
+TND-00358,2025-12-05,Department of Health & Family Welfare,IT Hardware & Networking,Nagpur,1574000.0,2026-01-02,28
+TND-00297,2025-12-06,Water Supply & Sanitation Board,Medical Equipment Supply,Aurangabad,4072000.0,2026-01-19,44
+TND-00243,2025-12-08,Public Works Department,Civil Structural Engineering,Aurangabad,2970000.0,2026-01-13,36
+TND-00328,2025-12-08,Transport Infrastructure Authority,Medical Equipment Supply,Mumbai,3735000.0,2025-12-29,21
+TND-00385,2025-12-09,Water Supply & Sanitation Board,Road Construction & Repair,Pune,1080000.0,2025-12-26,17
+TND-00126,2025-12-10,Water Supply & Sanitation Board,Road Construction & Repair,Aurangabad,11437000.0,2025-12-31,21
+TND-00028,2025-12-11,Transport Infrastructure Authority,Civil Structural Engineering,Mumbai,2678000.0,2026-01-11,31
+TND-00059,2025-12-12,Transport Infrastructure Authority,Road Construction & Repair,Aurangabad,2584000.0,2026-01-19,38
+TND-00071,2025-12-13,Information Technology Services,School Infrastructure & Furniture,Thane,2647000.0,2026-01-06,24
+TND-00087,2025-12-13,Public Works Department,Medical Equipment Supply,Nashik,4124000.0,2026-01-21,39
+TND-00299,2025-12-13,Water Supply & Sanitation Board,IT Hardware & Networking,Aurangabad,3799000.0,2026-01-12,30
+TND-00235,2025-12-14,Water Supply & Sanitation Board,Road Construction & Repair,Nagpur,11019000.0,2026-01-25,42
+TND-00160,2025-12-15,Department of Education & Literacy,Civil Structural Engineering,Amravati,3353000.0,2026-01-18,34
+TND-00216,2025-12-17,Information Technology Services,Waste Management & Sanitation,Nagpur,3639000.0,2026-01-29,43
+TND-00024,2025-12-19,Department of Education & Literacy,Road Construction & Repair,Amravati,634000.0,2026-01-21,33
+TND-00185,2025-12-21,Department of Health & Family Welfare,Medical Equipment Supply,Nagpur,1658000.0,2026-01-14,24
+TND-00201,2025-12-23,Public Works Department,IT Hardware & Networking,Amravati,2640000.0,2026-01-14,22
+TND-00395,2025-12-23,Department of Education & Literacy,Water Pipeline Maintenance,Nashik,5094000.0,2026-01-20,28
+TND-00093,2025-12-25,Transport Infrastructure Authority,Road Construction & Repair,Amravati,1131000.0,2026-01-27,33
+TND-00342,2025-12-25,Public Works Department,School Infrastructure & Furniture,Aurangabad,2410000.0,2026-01-12,18
+TND-00019,2025-12-26,Department of Health & Family Welfare,IT Hardware & Networking,Thane,959000.0,2026-02-07,43
+TND-00398,2025-12-26,Public Works Department,Waste Management & Sanitation,Mumbai,5857000.0,2026-01-19,24
+TND-00296,2025-12-28,Information Technology Services,Civil Structural Engineering,Mumbai,1139000.0,2026-01-19,22
+TND-00287,2025-12-29,Water Supply & Sanitation Board,Civil Structural Engineering,Amravati,1756000.0,2026-01-31,33
+TND-00041,2025-12-30,Transport Infrastructure Authority,Water Pipeline Maintenance,Nashik,3580000.0,2026-01-23,24
+TND-00169,2026-01-01,Information Technology Services,Civil Structural Engineering,Aurangabad,1629000.0,2026-01-20,19

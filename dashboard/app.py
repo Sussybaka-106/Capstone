@@ -4,6 +4,12 @@ Compliant with Stage 17 of the Project Blueprint.
 """
 
 import os
+import sys
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
+
 import pandas as pd
 import numpy as np
 import streamlit as st
@@ -19,7 +25,25 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "processed")
+DATA_DIR = os.path.join(BASE_DIR, "data", "processed")
+
+
+def run_full_pipeline_if_missing():
+    """Runs data generation and pipeline if artifacts are not present."""
+    data_dir = os.path.join(BASE_DIR, "data")
+    raw_tenders = os.path.join(data_dir, "raw", "tenders.csv")
+    if not os.path.exists(raw_tenders):
+        from src.data_generation.generator import generate_and_save_dataset
+        generate_and_save_dataset(output_dir=data_dir)
+
+    features_path = os.path.join(DATA_DIR, "tender_features.csv")
+    if not os.path.exists(features_path):
+        from src.pipeline import run_preprocessing_and_features
+        run_preprocessing_and_features(data_dir=data_dir)
+
+    from src.train import train_and_evaluate_pipeline
+    models_dir = os.path.join(BASE_DIR, "models")
+    train_and_evaluate_pipeline(data_dir=data_dir, model_output_dir=models_dir)
 
 
 @st.cache_data
@@ -47,8 +71,17 @@ st.sidebar.markdown("**System Blueprint Stage 17**")
 st.sidebar.markdown("Explainable Anomaly Scoring & Bid Graph Analytics")
 
 if df_queue.empty:
-    st.error("No processed data found. Please run the training pipeline first: `python -m src.train`")
-    st.stop()
+    st.warning("No processed data found. Initializing analytics pipeline...")
+    with st.spinner("Generating procurement benchmark, running graph analytics, and training ranking model..."):
+        try:
+            run_full_pipeline_if_missing()
+            st.cache_data.clear()
+            st.success("Pipeline initialized successfully! Reloading dashboard...")
+            st.rerun()
+        except Exception as e:
+            st.error(f"Failed to auto-initialize pipeline: {e}")
+            st.info("Please run manually: `python -m src.train`")
+            st.stop()
 
 # Header Metrics
 st.title("Public Procurement Collusion Analytics Platform")

@@ -1,0 +1,105 @@
+Vendor_ID,Vendor_Name,Address,City,Registration_ID,Industry,Normalized_Name,Canonical_Vendor_ID,Is_Alias,Cluster_Size
+VND-0001,Sterling Apex Associates,"351, MIDC Phase II, Thane",Thane,REG-246316-KA,Road Construction & Repair,sterling apex associates,VND-0001,0,2
+VND-0002,Horizon Universal Solutions,"133, MG Road, Industrial Area, Solapur",Solapur,REG-198246-MH,Medical Equipment Supply,horizon universal solutions,VND-0002,0,1
+VND-0003,Kestrel Titan Pvt Ltd,"834, Apex Business District, Nashik",Nashik,REG-835392-KA,School Infrastructure & Furniture,kestrel titan pvt ltd,VND-0003,0,3
+VND-0004,Vanguard Everest Solutions,"929, SV Road, Logistics Center, Thane",Thane,REG-106814-MH,Waste Management & Sanitation,vanguard everest solutions,VND-0004,0,1
+VND-0005,Falcon Zenith Enterprises,"321, SV Road, Logistics Center, Nagpur",Nagpur,REG-452944-MH,Road Construction & Repair,falcon zenith enterprises,VND-0005,0,3
+VND-0006,Royal Sterling Enterprises,"719, Station Road, Commercial Complex, Aurangabad",Aurangabad,REG-946335-MH,Waste Management & Sanitation,royal sterling enterprises,VND-0006,0,1
+VND-0007,Everest Horizon Pvt Ltd,"181, Ring Road, Sector 4, Solapur",Solapur,REG-407419-KA,Water Pipeline Maintenance,everest horizon pvt ltd,VND-0007,0,2
+VND-0008,Sunrise Paramount Limited,"147, Apex Business District, Pune",Pune,REG-338968-DL,Road Construction & Repair,sunrise paramount limited,VND-0008,0,1
+VND-0009,Vanguard Sterling Infra & Co,"565, Apex Business District, Thane",Thane,REG-974628-DL,Medical Equipment Supply,vanguard sterling infra  co,VND-0009,0,2
+VND-0010,Sunrise Sunrise Limited,"819, Apex Business District, Thane",Thane,REG-779514-MH,Water Pipeline Maintenance,sunrise sunrise limited,VND-0010,0,1
+VND-0011,Navkar Horizon Associates,"268, Linking Road, Tech Park, Nashik",Nashik,REG-497887-DL,Waste Management & Sanitation,navkar horizon associates,VND-0011,0,1
+VND-0012,Horizon Vanguard Associates,"964, SV Road, Logistics Center, Aurangabad",Aurangabad,REG-913694-MH,Medical Equipment Supply,horizon vanguard associates,VND-0012,0,1
+VND-0013,Prime Zenith Infra & Co,"168, MIDC Phase II, Thane",Thane,REG-694731-KA,IT Hardware & Networking,prime zenith infra  co,VND-0013,0,1
+VND-0014,Pinnacle Matrix Infra & Co,"247, Station Road, Commercial Complex, Amravati",Amravati,REG-246413-MH,Waste Management & Sanitation,pinnacle matrix infra  co,VND-0014,0,1
+VND-0015,Horizon Horizon Enterprises,"698, Linking Road, Tech Park, Solapur",Solapur,REG-479580-MH,Medical Equipment Supply,horizon horizon enterprises,VND-0015,0,1
+VND-0016,Kestrel Matrix Pvt Ltd,"982, MG Road, Industrial Area, Mumbai",Mumbai,REG-260265-KA,Medical Equipment Supply,kestrel matrix pvt ltd,VND-0016,0,1
+VND-0017,Falcon Titan Pvt Ltd,"491, Ring Road, Sector 4, Solapur",Solapur,REG-590785-KA,IT Hardware & Networking,falcon titan pvt ltd,VND-0017,0,2
+VND-0018,Horizon Apex Associates,"799, Ring Road, Sector 4, Pune",Pune,REG-887352-DL,Civil Structural Engineering,horizon apex associates,VND-0018,0,1
+VND-0019,Zenith Sterling Enterprises,"262, Linking Road, Tech Park, Solapur",Solapur,REG-103402-KA,Waste Management & Sanitation,zenith sterling enterprises,VND-0019,0,1
+VND-0020,Delta Kestrel Limited,"992, Apex Business District, Pune",Pune,REG-412942-KA,Water Pipeline Maintenance,delta kestrel limited,VND-0020,0,1
+VND-0021,Titan Pinnacle Limited,"881, MIDC Phase II, Aurangabad",Aurangabad,REG-665579-KA,Road Construction & Repair,titan pinnacle limited,VND-0021,0,1
+VND-0022,Titan Zenith Infra & Co,"215, Station Road, Commercial Complex, Mumbai",Mumbai,REG-972064-DL,Medical Equipment Supply,titan zenith infra  co,VND-0022,0,1
+VND-0023,Prime Vanguard Solutions,"188, Apex Business District, Pune",Pune,REG-609597-MH,Civil Structural Engineering,prime vanguard solutions,VND-0023,0,1
+VND-0024,Horizon Bharat Limited,"663, MIDC Phase II, Amravati",Amravati,REG-377932-KA,Civil Structural Engineering,horizon bharat limited,VND-0024,0,1
+VND-0025,Titan Falcon Limited,"831, Station Road, Commercial Complex, Nashik",Nashik,REG-518373-KA,Waste Management & Sanitation,titan falcon limited,VND-0017,1,2
+VND-0026,Sunrise Everest Solutions,"224, MIDC Phase II, Amravati",Amravati,REG-335612-MH,IT Hardware & Networking,sunrise everest solutions,VND-0026,0,1
+VND-0027,Apex Paramount Solutions,"703, MIDC Phase II, Nashik",Nashik,REG-107540-MH,Waste Management & Sanitation,apex paramount solutions,VND-0027,0,2
+VND-0028,Prime Vanguard Pvt Ltd,"981, Station Road, Commercial Complex, Mumbai",Mumbai,REG-174299-KA,Medical Equipment Supply,prime vanguard pvt ltd,VND-0028,0,1
+VND-0029,Delta Matrix Limited,"841, Ring Road, Sector 4, Nagpur",Nagpur,REG-704201-DL,Medical Equipment Supply,delta matrix limited,VND-0029,0,2
+VND-0030,Matrix Falcon Limited,"200, Apex Business District, Pune",Pune,REG-551989-DL,School Infrastructure & Furniture,matrix falcon limited,VND-0030,0,1
+VND-0031,Falcon Everest Associates,"790, Apex Business District, Mumbai",Mumbai,REG-777568-MH,Road Construction & Repair,falcon everest associates,VND-0031,0,1
+VND-0032,Royal Zenith Pvt Ltd,"297, MIDC Phase II, Nashik",Nashik,REG-662336-DL,Medical Equipment Supply,royal zenith pvt ltd,VND-0032,0,1
+VND-0033,Falcon Navkar Enterprises,"356, SV Road, Logistics Center, Amravati",Amravati,REG-179046-DL,Civil Structural Engineering,falcon navkar enterprises,VND-0033,0,1
+VND-0034,Horizon Sterling Pvt Ltd,"196, SV Road, Logistics Center, Mumbai",Mumbai,REG-989921-MH,Medical Equipment Supply,horizon sterling pvt ltd,VND-0034,0,1
+VND-0035,Falcon Matrix Infra & Co,"986, Linking Road, Tech Park, Nashik",Nashik,REG-161483-MH,School Infrastructure & Furniture,falcon matrix infra  co,VND-0035,0,2
+VND-0036,Apex Royal Enterprises,"393, Linking Road, Tech Park, Amravati",Amravati,REG-830429-KA,Civil Structural Engineering,apex royal enterprises,VND-0036,0,1
+VND-0037,Horizon Matrix Limited,"404, MIDC Phase II, Nashik",Nashik,REG-161324-KA,Waste Management & Sanitation,horizon matrix limited,VND-0037,0,1
+VND-0038,Horizon Prime Associates,"159, MG Road, Industrial Area, Aurangabad",Aurangabad,REG-712554-DL,Water Pipeline Maintenance,horizon prime associates,VND-0038,0,1
+VND-0039,Kestrel Navkar Pvt Ltd,"972, MIDC Phase II, Pune",Pune,REG-171849-KA,Road Construction & Repair,kestrel navkar pvt ltd,VND-0039,0,1
+VND-0040,Vanguard Royal Pvt Ltd,"693, Ring Road, Sector 4, Nashik",Nashik,REG-141672-KA,Road Construction & Repair,vanguard royal pvt ltd,VND-0040,0,1
+VND-0041,Falcon Paramount Solutions,"368, MIDC Phase II, Aurangabad",Aurangabad,REG-802258-KA,IT Hardware & Networking,falcon paramount solutions,VND-0041,0,1
+VND-0042,Vanguard Delta Infra & Co,"788, Apex Business District, Nagpur",Nagpur,REG-414569-DL,IT Hardware & Networking,vanguard delta infra  co,VND-0042,0,1
+VND-0043,Universal Apex Infra & Co,"176, Ring Road, Sector 4, Pune",Pune,REG-323508-KA,IT Hardware & Networking,universal apex infra  co,VND-0043,0,1
+VND-0044,Bharat Sunrise Pvt Ltd,"479, Station Road, Commercial Complex, Nashik",Nashik,REG-265409-DL,Civil Structural Engineering,bharat sunrise pvt ltd,VND-0044,0,1
+VND-0045,Horizon Regal Solutions,"784, SV Road, Logistics Center, Mumbai",Mumbai,REG-681542-DL,Waste Management & Sanitation,horizon regal solutions,VND-0045,0,1
+VND-0046,Sterling Bharat Enterprises,"210, Apex Business District, Pune",Pune,REG-680097-MH,IT Hardware & Networking,sterling bharat enterprises,VND-0046,0,1
+VND-0047,Regal Titan Limited,"309, Apex Business District, Aurangabad",Aurangabad,REG-765046-DL,Water Pipeline Maintenance,regal titan limited,VND-0047,0,1
+VND-0048,Matrix Delta Pvt Ltd,"750, Linking Road, Tech Park, Pune",Pune,REG-969634-DL,Road Construction & Repair,matrix delta pvt ltd,VND-0029,1,2
+VND-0049,Apex Zenith Limited,"266, Apex Business District, Thane",Thane,REG-563298-KA,Waste Management & Sanitation,apex zenith limited,VND-0049,0,1
+VND-0050,Falcon Horizon Pvt Ltd,"178, Apex Business District, Pune",Pune,REG-256294-KA,Road Construction & Repair,falcon horizon pvt ltd,VND-0050,0,1
+VND-0051,Sunrise Paramount Solutions,"541, MIDC Phase II, Nagpur",Nagpur,REG-143860-DL,IT Hardware & Networking,sunrise paramount solutions,VND-0051,0,1
+VND-0052,Prime Sunrise Limited,"783, MG Road, Industrial Area, Nashik",Nashik,REG-470858-KA,Civil Structural Engineering,prime sunrise limited,VND-0052,0,1
+VND-0053,Falcon Titan Associates,"343, SV Road, Logistics Center, Nagpur",Nagpur,REG-270395-MH,School Infrastructure & Furniture,falcon titan associates,VND-0053,0,1
+VND-0054,Apex Navkar Associates,"902, Linking Road, Tech Park, Aurangabad",Aurangabad,REG-941204-KA,Civil Structural Engineering,apex navkar associates,VND-0054,0,1
+VND-0055,Vanguard Delta Limited,"492, SV Road, Logistics Center, Pune",Pune,REG-140605-DL,Medical Equipment Supply,vanguard delta limited,VND-0055,0,2
+VND-0056,Pinnacle Everest Enterprises,"941, SV Road, Logistics Center, Thane",Thane,REG-338651-MH,Road Construction & Repair,pinnacle everest enterprises,VND-0056,0,1
+VND-0057,Pinnacle Royal Enterprises,"986, MG Road, Industrial Area, Thane",Thane,REG-910891-DL,IT Hardware & Networking,pinnacle royal enterprises,VND-0057,0,1
+VND-0058,Kestrel Royal Associates,"129, MG Road, Industrial Area, Aurangabad",Aurangabad,REG-373903-MH,Water Pipeline Maintenance,kestrel royal associates,VND-0058,0,1
+VND-0059,Delta Prime Pvt Ltd,"454, Apex Business District, Solapur",Solapur,REG-924629-DL,School Infrastructure & Furniture,delta prime pvt ltd,VND-0059,0,1
+VND-0060,Titan Kestrel Pvt Ltd,"691, MIDC Phase II, Solapur",Solapur,REG-367095-MH,Waste Management & Sanitation,titan kestrel pvt ltd,VND-0003,1,3
+VND-0061,Falcon Apex Solutions,"473, Linking Road, Tech Park, Nashik",Nashik,REG-173372-KA,IT Hardware & Networking,falcon apex solutions,VND-0061,0,1
+VND-0062,Titan Zenith Associates,"838, Station Road, Commercial Complex, Pune",Pune,REG-631756-DL,Waste Management & Sanitation,titan zenith associates,VND-0062,0,1
+VND-0063,Falcon Zenith Infra & Co,"668, MIDC Phase II, Thane",Thane,REG-301158-DL,Waste Management & Sanitation,falcon zenith infra  co,VND-0063,0,1
+VND-0064,Royal Navkar Solutions,"516, Ring Road, Sector 4, Thane",Thane,REG-974224-MH,IT Hardware & Networking,royal navkar solutions,VND-0064,0,1
+VND-0065,Regal Pinnacle Infra & Co,"577, Linking Road, Tech Park, Aurangabad",Aurangabad,REG-563638-KA,Medical Equipment Supply,regal pinnacle infra  co,VND-0065,0,1
+VND-0066,Kestrel Matrix Associates,"775, MG Road, Industrial Area, Nagpur",Nagpur,REG-397571-KA,Waste Management & Sanitation,kestrel matrix associates,VND-0066,0,1
+VND-0067,Titan Zenith Pvt Ltd,"789, Station Road, Commercial Complex, Nashik",Nashik,REG-335552-MH,Medical Equipment Supply,titan zenith pvt ltd,VND-0067,0,1
+VND-0068,Apex Prime Limited,"726, SV Road, Logistics Center, Amravati",Amravati,REG-905819-MH,School Infrastructure & Furniture,apex prime limited,VND-0068,0,1
+VND-0069,Falcon Paramount Limited,"607, Linking Road, Tech Park, Solapur",Solapur,REG-355836-MH,Waste Management & Sanitation,falcon paramount limited,VND-0069,0,1
+VND-0070,Apex Sterling Infra & Co,"281, SV Road, Logistics Center, Nashik",Nashik,REG-829716-KA,School Infrastructure & Furniture,apex sterling infra  co,VND-0070,0,1
+VND-0071,Prime Horizon Limited,"568, MIDC Phase II, Pune",Pune,REG-940346-DL,Waste Management & Sanitation,prime horizon limited,VND-0071,0,1
+VND-0072,Kestrel Horizon Solutions,"874, Linking Road, Tech Park, Aurangabad",Aurangabad,REG-742412-KA,Water Pipeline Maintenance,kestrel horizon solutions,VND-0072,0,1
+VND-0073,Falcon Horizon Infra & Co,"862, SV Road, Logistics Center, Nagpur",Nagpur,REG-597732-DL,IT Hardware & Networking,falcon horizon infra  co,VND-0073,0,1
+VND-0074,Vanguard Delta Solutions,"742, MIDC Phase II, Amravati",Amravati,REG-387936-DL,Road Construction & Repair,vanguard delta solutions,VND-0055,1,2
+VND-0075,Regal Vanguard Enterprises,"428, Ring Road, Sector 4, Aurangabad",Aurangabad,REG-184491-MH,Medical Equipment Supply,regal vanguard enterprises,VND-0075,0,1
+VND-0076,Vanguard Royal Associates,"824, MIDC Phase II, Nagpur",Nagpur,REG-167348-DL,School Infrastructure & Furniture,vanguard royal associates,VND-0076,0,1
+VND-0077,Zenith Horizon Infra & Co,"164, MIDC Phase II, Solapur",Solapur,REG-973349-DL,School Infrastructure & Furniture,zenith horizon infra  co,VND-0077,0,1
+VND-0078,Paramount Apex Solutions,"589, MG Road, Industrial Area, Solapur",Solapur,REG-468845-DL,Civil Structural Engineering,paramount apex solutions,VND-0027,1,2
+VND-0079,Royal Falcon Solutions,"600, MIDC Phase II, Nashik",Nashik,REG-386193-DL,School Infrastructure & Furniture,royal falcon solutions,VND-0079,0,1
+VND-0080,Royal Navkar Enterprises,"231, Ring Road, Sector 4, Amravati",Amravati,REG-660069-MH,School Infrastructure & Furniture,royal navkar enterprises,VND-0080,0,1
+VND-0081,Paramount Paramount Associates,"186, Apex Business District, Mumbai",Mumbai,REG-549433-MH,Civil Structural Engineering,paramount paramount associates,VND-0081,0,1
+VND-0082,Everest Navkar Pvt Ltd,"489, Station Road, Commercial Complex, Thane",Thane,REG-321941-DL,IT Hardware & Networking,everest navkar pvt ltd,VND-0082,0,1
+VND-0083,Zenith Royal Enterprises,"359, SV Road, Logistics Center, Solapur",Solapur,REG-185884-DL,Road Construction & Repair,zenith royal enterprises,VND-0005,1,3
+VND-0084,Horizon Prime Enterprises,"766, MG Road, Industrial Area, Nashik",Nashik,REG-919182-KA,Road Construction & Repair,horizon prime enterprises,VND-0084,0,1
+VND-0085,Apex Vanguard Limited,"737, MIDC Phase II, Mumbai",Mumbai,REG-350132-MH,School Infrastructure & Furniture,apex vanguard limited,VND-0085,0,1
+VND-0086,Sterling Paramount Limited,"817, Station Road, Commercial Complex, Amravati",Amravati,REG-904150-DL,Medical Equipment Supply,sterling paramount limited,VND-0086,0,1
+VND-0087,Titan Titan Associates,"897, SV Road, Logistics Center, Pune",Pune,REG-271720-DL,Road Construction & Repair,titan titan associates,VND-0087,0,1
+VND-0088,Paramount Apex Enterprises,"507, Apex Business District, Solapur",Solapur,REG-307963-MH,Water Pipeline Maintenance,paramount apex enterprises,VND-0088,0,1
+VND-0089,Vanguard Sterling Associates,"971, Apex Business District, Thane",Thane,REG-729577-MH,Civil Structural Engineering,vanguard sterling associates,VND-0009,1,2
+VND-0090,Paramount Prime Enterprises,"778, Station Road, Commercial Complex, Solapur",Solapur,REG-172306-KA,Waste Management & Sanitation,paramount prime enterprises,VND-0090,0,1
+VND-0091,Zenith Apex Infra & Co,"209, Linking Road, Tech Park, Amravati",Amravati,REG-479781-KA,Civil Structural Engineering,zenith apex infra  co,VND-0091,0,1
+VND-0092,Everest Bharat Infra & Co,"852, Ring Road, Sector 4, Nagpur",Nagpur,REG-782054-DL,Water Pipeline Maintenance,everest bharat infra  co,VND-0092,0,1
+VND-0093,Horizon Matrix Infra & Co,"946, Apex Business District, Solapur",Solapur,REG-721254-DL,IT Hardware & Networking,horizon matrix infra  co,VND-0093,0,1
+VND-0094,Vanguard Universal Enterprises,"350, SV Road, Logistics Center, Amravati",Amravati,REG-587282-KA,Water Pipeline Maintenance,vanguard universal enterprises,VND-0094,0,1
+VND-0095,Matrix Zenith Pvt Ltd,"600, MIDC Phase II, Nagpur",Nagpur,REG-472060-DL,IT Hardware & Networking,matrix zenith pvt ltd,VND-0095,0,1
+VND-0096,Delta Titan Associates,"670, MG Road, Industrial Area, Thane",Thane,REG-641722-MH,Road Construction & Repair,delta titan associates,VND-0096,0,1
+VND-0097,Vanguard Falcon Infra & Co,"808, Linking Road, Tech Park, Nashik",Nashik,REG-777278-KA,School Infrastructure & Furniture,vanguard falcon infra  co,VND-0035,1,2
+VND-0098,Everest Apex Pvt Ltd,"327, Linking Road, Tech Park, Thane",Thane,REG-825391-MH,IT Hardware & Networking,everest apex pvt ltd,VND-0098,0,1
+VND-0099,Paramount Sunrise Infra & Co,"536, Apex Business District, Aurangabad",Aurangabad,REG-677124-DL,IT Hardware & Networking,paramount sunrise infra  co,VND-0099,0,1
+VND-0100,Everest Delta Enterprises,"337, MG Road, Industrial Area, Thane",Thane,REG-856321-MH,IT Hardware & Networking,everest delta enterprises,VND-0100,0,1
+VND-0101,Sterling Apex Associates Group,"351, MIDC Phase II, Thane",Thane,REG-246316A,Road Construction & Repair,sterling apex associates group,VND-0001,1,2
+VND-0102,Kestrel Titan Private Limited,"25, 834, Apex Business District, Nashik",Nashik,REG-835392A,School Infrastructure & Furniture,kestrel titan private limited,VND-0003,1,3
+VND-0103,Falcon Zenith Enterprises Group,"321, SV Road, Logistics Center, Nagpur",Nagpur,REG-452944A,Road Construction & Repair,falcon zenith enterprises group,VND-0005,1,3
+VND-0104,Everest Horizon Private Limited,"78, 181, Ring Road, Sector 4, Solapur",Solapur,REG-407419A,Water Pipeline Maintenance,everest horizon private limited,VND-0007,1,2

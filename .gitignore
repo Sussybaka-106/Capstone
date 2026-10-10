@@ -47,9 +47,8 @@ mlartifacts/
 *.db
 *.sqlite3
 
-# Large generated data (keep directory structure)
-data/raw/*.csv
-data/processed/*.csv
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/ground_truth/.gitkeep
+# Keep temporary database files ignored (CSV datasets are tracked for deployment)
+!data/raw/*.csv
+!data/processed/*.csv
+!data/ground_truth/*.csv
+
