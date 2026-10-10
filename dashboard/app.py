@@ -14,7 +14,7 @@ import networkx as nx
 # Page Configuration
 st.set_page_config(
     page_title="Procurement Collusion Analytics",
-    page_icon="🛡️",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -42,7 +42,7 @@ def load_all_data():
 df_queue, df_bids, df_vendors, df_cobids, df_comm = load_all_data()
 
 # Sidebar Navigation
-st.sidebar.title("🛡️ Collusion Analytics")
+st.sidebar.title(" Collusion Analytics")
 st.sidebar.markdown("**System Blueprint Stage 17**")
 st.sidebar.markdown("Explainable Anomaly Scoring & Bid Graph Analytics")
 
@@ -58,11 +58,11 @@ st.markdown(
 )
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📊 Executive KPIs",
-    "📋 Investigation Queue",
-    "🔍 Case Inspector & SHAP",
-    "🕸️ Vendor Network Graph",
-    "🏢 Entity Resolution"
+    "Executive KPIs",
+    "Investigation Queue",
+    "Case Inspector & SHAP",
+    "Vendor Network Graph",
+    "Entity Resolution"
 ])
 
 # ----------------- TAB 1: EXECUTIVE KPIS -----------------
@@ -160,7 +160,7 @@ with tab2:
     )
 
     st.download_button(
-        label="📥 Export Investigation Queue (CSV)",
+        label="Export Investigation Queue (CSV)",
         data=filtered_queue.to_csv(index=False),
         file_name="investigation_queue_export.csv",
         mime="text/csv",
@@ -186,7 +186,7 @@ with tab3:
     col_c3.metric("Baseline Red Flag Score", f"{case_row['baseline_anomaly_score']:.0f} / 100")
     col_c4.metric("Winning Vendor", f"{case_row['Winning_Vendor_ID']}")
 
-    st.info(f"💡 **Forensic Rationale**: {case_row['shap_explanation']}")
+    st.info(f"**Forensic Rationale**: {case_row['shap_explanation']}")
 
     col_detail1, col_detail2 = st.columns([3, 2])
 
@@ -268,9 +268,8 @@ with tab4:
                 size=14,
                 colorbar=dict(
                     thickness=15,
-                    title="Network Degree",
+                    title=dict(text="Network Degree", side="right"),
                     xanchor="left",
-                    titleside="right"
                 ),
                 line_width=2
             )
